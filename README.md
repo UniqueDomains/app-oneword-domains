@@ -15,7 +15,7 @@ Stay ahead of the competition with our constantly updated dataset of available .
 - **Buy Link**: Direct link to purchase the domain.
 - **Industries**: 1 from 3 industries related to the domain name
 
-![List of 10,000 available .app one-word domain names](https://raw.githubusercontent.com/UniqueDomains/app-oneword-domains/main/preview.png)
+![List of 10,000 available .app one-word domain names](https://github.com/UniqueDomains/app-oneword-domain/blob/main/preview.png?raw=true)
 
 # You will love this dataset if you're a:
 
