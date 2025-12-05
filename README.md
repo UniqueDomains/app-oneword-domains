@@ -29,7 +29,7 @@ If you want to search & filters the complete database of [.APP one word domains]
 | aback.app          | available | 76       | 80%    | 5      |                                                           |                  |                  |
 | abactinal.app      | available | 50       | 1%     | 9      |                                                           |                  |                  |
 | abaft.app          | available | 43       | 2%     | 5      |                                                           |                  |                  |
-| abandoned.app      | premium   | 58       | 10%    | 9      |                                                           |                  |                  |
+| abandoned.app      | premium   | 58       | 7%     | 9      |                                                           |                  |                  |
 | abashed.app        | available | 60       | 2%     | 7      |                                                           |                  |                  |
 | abasic.app         | available | 54       | 2%     | 6      |                                                           |                  |                  |
 | abatable.app       | available | 54       | 1%     | 8      |                                                           |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.APP one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
