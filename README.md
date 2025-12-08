@@ -25,6 +25,7 @@ If you want to search & filters the complete database of [.APP one word domains]
 | AandE.app          | available | 50       | 80%    | 7      |                                                           |                  |                  |
 | aardwolf.app       | resell    | 54       | 84%    | 8      | Sav.com, LLC                                              | 01/10/2024 05:44 | 01/10/2025 05:44 |
 | aargh.app          | available | 56       | 76%    | 5      |                                                           |                  |                  |
+| aaron.app          | resell    | 88       | 28%    | 5      | Dynadot LLC.                                              | 13/10/2025 09:35 | 13/10/2026 09:35 |
 | aaronburr.app      | available | 54       | 72%    | 10     |                                                           |                  |                  |
 | aback.app          | available | 76       | 80%    | 5      |                                                           |                  |                  |
 | abactinal.app      | available | 50       | 1%     | 9      |                                                           |                  |                  |
@@ -50,7 +51,6 @@ If you want to search & filters the complete database of [.APP one word domains]
 | abdicable.app      | available | 50       | 1%     | 9      |                                                           |                  |                  |
 | Abdinasir.app      | available | 46       | 72%    | 9      |                                                           |                  |                  |
 | Abdollah.app       | available | 46       | 72%    | 8      |                                                           |                  |                  |
-| abdomen.app        | available | 66       | 76%    | 7      |                                                           |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/app-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.APP one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
