@@ -1,22 +1,22 @@
-# Available .APP One-Word Domains (57,265)
+# Available .APP One-Word Domains (57,571)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-57%2C265%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-57%2C571%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .app one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **57,265 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **57,571 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 57,265 domains
+**Public extract:** 1,000 rows · **Live catalog:** 57,571 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-28  
 **Canonical page:** `https://unique.domains/domains/tld/app`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .APP one-word domain c
 
 ### Files
 
-- `app.csv` — public CSV extract (10,000 rows)
-- `app.json` — public JSON extract (10,000 rows)
+- `app.csv` — public CSV extract (1,000 rows)
+- `app.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| aback.app           | available | $9.99      | $22.99        | 76             | 80     | 5      | name.com                                                  |
-| adviser.app         | resell    | $16,042.50 | $61.25        | 80             | 16     | 7      | Sav.com, LLC                                              |
-| visualart.app       | premium   | $4,370     | $26.99        | 64             | 92     | 10     | name.com                                                  |
-| refining.app        | available | $9.99      | $26.99        | 58             | 80     | 8      | name.com                                                  |
-| adlib.app           | resell    | $16,847.50 | $22.99        | 88             | 7      | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| mathematics.app     | premium   | $498.75    | $498.75       | 64             | 92     | 11     | name.com                                                  |
-| tillage.app         | available | $9.99      | $26.99        | 62             | 76     | 7      | name.com                                                  |
-| gps.app             | resell    | —          | —             | 104            | 96     | 3      | GoDaddy.com, LLC                                          |
-| algebra.app         | premium   | $998.75    | $998.75       | 68             | 88     | 7      | name.com                                                  |
-| plastering.app      | available | $9.99      | $26.99        | 58             | 76     | 10     | name.com                                                  |
-| rando.app           | resell    | —          | —             | 70             | 96     | 5      | Namecheap Inc.                                            |
-| admission.app       | premium   | $498.75    | $498.75       | 66             | 88     | 9      | name.com                                                  |
-| aargh.app           | available | $9.99      | $22.99        | 56             | 76     | 5      | name.com                                                  |
-| joker.app           | resell    | —          | —             | 62             | 96     | 5      | Porkbun LLC                                               |
-| litigation.app      | premium   | $248.75    | $248.75       | 54             | 88     | 10     | name.com                                                  |
-| ABCIslands.app      | available | $20.98     | —             | 57             | 72     | 11     | namecheap                                                 |
-| coyote.app          | resell    | —          | —             | 56             | 96     | 6      | GoDaddy.com, LLC                                          |
-| stamping.app        | premium   | $61.25     | $61.25        | 60             | 84     | 8      | name.com                                                  |
-| batchproduction.app | available | $9.99      | $26.99        | 56             | 72     | 16     | name.com                                                  |
-| prestige.app        | resell    | —          | —             | 96             | 92     | 8      | GoDaddy.com, LLC                                          |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| aargh.app            | available | $9.99     | $22.99        | 56             | 76     | 5      | name.com                      |
+| rando.app            | resell    | —         | —             | 70             | 96     | 5      | Namecheap Inc.                |
+| roses.app            | premium   | $123.75   | —             | 68             | 16     | 5      | name.com                      |
+| ABCIslands.app       | available | $20.98    | —             | 57             | 72     | 11     | namecheap                     |
+| BHO.app              | resell    | —         | —             | 74             | 92     | 3      | West263 International Limited |
+| advertisement.app    | premium   | $248.75   | —             | 72             | 13     | 13     | name.com                      |
+| chemicalanalysis.app | available | $9.99     | $26.99        | 32             | 72     | 17     | name.com                      |
+| soundboard.app       | resell    | —         | —             | 60             | 88     | 10     | Dynadot LLC.                  |
+| votes.app            | premium   | $123.75   | —             | 60             | 11     | 5      | name.com                      |
+| niggers.app          | available | $14.99    | —             | 37             | 13     | 7      | name.com                      |
+| findable.app         | resell    | —         | —             | 52             | 88     | 8      | Porkbun LLC                   |
+| sucks.app            | premium   | $123.75   | —             | 48             | 11     | 5      | name.com                      |
+| HillCity.app         | available | $22.98    | —             | 66             | 7      | 9      | namecheap                     |
+| flare.app            | resell    | —         | —             | 90             | 84     | 5      | GoDaddy.com, LLC              |
+| errors.app           | premium   | $61.25    | —             | 46             | 11     | 6      | name.com                      |
+| twentyseven.app      | available | $14.99    | —             | 65             | 7      | 12     | name.com                      |
+| escort.app           | resell    | —         | —             | 86             | 84     | 6      | 1API GmbH                     |
+| blackpanther.app     | premium   | $61.25    | —             | 80             | 10     | 13     | name.com                      |
+| snowballs.app        | available | $14.99    | —             | 59             | 7      | 9      | name.com                      |
+| wishbone.app         | resell    | —         | —             | 70             | 84     | 8      | Namecamp Limited              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 57,265 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 57,571 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .APP One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .APP One-Word Domains*. Version 2026-04-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
