@@ -1,5 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 01277e1b-90cf-4417-96d2-5ad14c6b037a,pans.app,resell,,,52,8,4,Dynadot LLC.,15/04/2023 17:29,15/04/2027 17:29
+01bb861b-e5e9-4bfd-aaa2-a0b118bd6b6f,norfolk.app,resell,,,74,14,7,Nom-IQ Limited dba Com Laude,09/05/2018 01:55,09/05/2027 01:55
 030a991f-30ff-40f9-89ac-584296d52dda,Dicks.app,resell,,,56,14,5,"Sav.com, LLC",03/02/2026 05:09,03/02/2027 05:09
 035a937e-4b9c-4195-a48d-c1939d34e719,shorted.app,available,14.99,,61,4,7,name.com,,
 03fb48e0-eba2-48c4-8f17-c50660d04f61,proxyfight.app,available,14.99,,44,1,11,name.com,,
@@ -424,7 +425,7 @@ d1e8bfe8-7fc3-4477-b9e9-2028f418ca23,sheshed.app,premium,,,62,80,8,,,
 027439ed-e91a-497d-b772-aaa2b93577ab,whoopeedoo.app,premium,,,53,72,10,,,
 f2e418ce-44a7-4bbc-a608-454d57ab5d1b,takingaway.app,premium,,,,1,11,,,
 d36ba168-a8ab-492c-b8f3-f4267a069776,ginnels.app,premium,,,36,4,7,,,
-00e10df2-cee1-4743-ab65-37dba078fe6f,mentor.app,resell,,,74,33,6,Squarespace Domains II LLC.,22/07/2019 17:47,22/07/2026 17:47
+00e10df2-cee1-4743-ab65-37dba078fe6f,mentor.app,resell,,,74,32,6,Squarespace Domains II LLC.,22/07/2019 17:47,22/07/2026 17:47
 ab20ee35-a0f0-441d-ad0b-6f6e21f40968,girlsFriday.app,premium,,,44,8,12,,,
 6c7f74d7-9846-4080-985d-799bc71e1b08,weddingcakes.app,premium,,,,28,13,,,
 7a9e18c8-b56e-4b1d-9d64-a20b6a3f17a3,FreeFrance.app,premium,,,56,72,11,,,
@@ -998,4 +999,3 @@ d94ac3a8-e58c-42af-b35c-2b5bcb70b1a0,underwriters.app,premium,,,,76,12,,,
 81ae6267-6341-4588-910d-49968edb647a,headwear.app,premium,,,56,88,8,,,
 ea0aef94-3cd0-467d-8a4a-c2450a77171d,stoplossorder.app,premium,,,58,72,15,,,
 1994ebb7-aa42-4461-b316-3deeb1994ef9,literatures.app,premium,,,42,12,11,,,
-c2bee12d-742c-4e79-bc4d-ffd2e84c3a11,Chineselilac.app,premium,,,60,72,13,,,
