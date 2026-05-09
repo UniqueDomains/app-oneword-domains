@@ -55,6 +55,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2609906c-b3b0-418d-a971-9c087f06819b,wastes.app,available,14.99,,50,4,6,name.com,,
 26a8e205-14ed-40f7-bff2-15eb910cb7a4,gettheidea.app,available,14.99,,79,0,12,name.com,,
 27216b63-074b-41b5-8561-eab4dc0c79d0,advertisements.app,premium,123.75,,54,7,14,name.com,,
+283cac41-e09e-493f-86e8-79a106103648,pittsburgh.app,resell,,,66,17,10,Nom-IQ Limited dba Com Laude,08/05/2018 16:26,08/05/2027 16:26
 28e26a67-b3c1-4cba-984c-13d431c5270e,snuck.app,available,14.99,,46,3,5,name.com,,
 290fb149-ecc5-408c-a2a3-2487001ed6b6,webshop.app,resell,,,76,22,8,"Global Domains International, Inc. DBA DomainCostClub.com",08/10/2022 01:58,08/10/2026 01:58
 2a93e825-c3d6-4dbf-a04b-7edb8358aeed,refused.app,premium,61.25,,50,4,7,name.com,,
@@ -340,6 +341,7 @@ f7e874e9-082d-4aa5-b0c4-c70c1c2f7f9e,suspicions.app,available,14.99,,43,2,10,nam
 f8145c00-ddcc-41fc-a698-019453dfef18,stronger.app,resell,,,67,19,8,Dynadot LLC.,29/08/2023 21:39,29/08/2026 21:39
 f85f46e1-ce7e-4e78-907b-cb5453a10660,letterofdismissal.app,available,14.99,,44,1,19,name.com,,
 f8c9a0c6-dfe7-4f56-a4b4-4204d5e0d89b,sedated.app,available,14.99,,43,2,7,name.com,,
+f93b79ff-e206-4378-be97-d915419fa4e4,relations.app,premium,,,76,10,9,,,
 f9b1ec57-4d5a-40e2-84bf-810c5d93c139,goawry.app,available,14.99,,66,0,7,name.com,,
 f9faefbc-7230-41f0-9d05-4b533b76ed87,getthememo.app,available,14.99,,74,1,12,name.com,,
 fa730025-6d84-4e24-9492-d67acbb66e1d,paperingover.app,available,14.99,,53,1,13,name.com,,
@@ -997,5 +999,3 @@ b6344733-bfdd-496f-8719-152aa39408dc,alhaji.app,premium,,,60,72,6,,,
 d94ac3a8-e58c-42af-b35c-2b5bcb70b1a0,underwriters.app,premium,,,,76,12,,,
 32c4352a-3642-434a-a78e-86d89aa0d156,rejuvenations.app,premium,,,,12,13,,,
 81ae6267-6341-4588-910d-49968edb647a,headwear.app,premium,,,56,88,8,,,
-ea0aef94-3cd0-467d-8a4a-c2450a77171d,stoplossorder.app,premium,,,58,72,15,,,
-1994ebb7-aa42-4461-b316-3deeb1994ef9,literatures.app,premium,,,42,12,11,,,
