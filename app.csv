@@ -26,7 +26,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 11a31446-8142-40d7-8d05-a8c9d18557c7,ferries.app,resell,,,54,7,7,"Sav.com, LLC",09/02/2024 22:52,09/02/2027 22:52
 12954128-67bc-4b74-bb71-1d6c732b617c,cups.app,resell,,,60,12,4,Porkbun LLC,16/07/2022 15:18,16/07/2026 15:18
 12c7eb7d-036d-45c7-9cd6-f56c55bc4c04,havetheblues.app,available,14.99,,58,1,14,name.com,,
-14d7e40b-d0f0-4711-8ff5-0a0e1f596acf,informative.app,resell,,,74,8,11,Dynadot LLC.,04/12/2025 17:12,04/12/2026 17:12
+14d7e40b-d0f0-4711-8ff5-0a0e1f596acf,informative.app,resell,,,74,7,11,Dynadot LLC.,04/12/2025 17:12,04/12/2026 17:12
 15045bc4-91de-4c24-a4df-dc3fa1850a00,Occupations.app,resell,,,50,3,11,"Spaceship, Inc.",18/11/2021 22:15,18/11/2026 22:15
 15be0b3b-da53-44ec-9d8e-272e4b8c7d44,gobust.app,available,14.99,,68,1,7,name.com,,
 166a25e1-689e-4832-a175-6f920ab02ec1,throats.app,available,14.99,,44,2,7,name.com,,
@@ -41,6 +41,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1f4a6283-c1d9-4a6c-a5d6-21dbe7c214e4,indanger.app,available,14.99,,60,1,9,name.com,,
 1fa8df63-c2ee-49c1-842b-4d8b54bd243c,gonedownthetube.app,available,14.99,,30,1,18,name.com,,
 1fe9c15d-95f9-4918-9a81-2d5e7b336a91,votes.app,premium,123.75,,60,11,5,name.com,,
+20aaf72a-4766-4fa6-94a2-9f4221ed51cc,legislative.app,premium,,,70,6,11,,,
 20b52c97-1a86-480f-9293-0286ed026c39,flashflooding.app,available,14.99,,52,0,14,name.com,,
 21273705-2316-4457-8c16-a067052aee5f,worldsapart.app,available,14.99,,64,3,12,name.com,,
 21516b27-a4d3-4bb8-af0d-1b826b3a4549,keepunder.app,available,14.99,,66,1,10,name.com,,
@@ -236,6 +237,7 @@ a9820f50-2423-4f3b-9d23-b68275416ac8,outofmyway.app,available,14.99,,34,1,13,nam
 a9f46aac-3836-4a9b-8259-c64640b705f2,moulds.app,available,14.99,,52,5,6,name.com,,
 aa22659f-2dc7-4ea5-b5eb-39136c593f6b,alcoholpoisoning.app,available,14.99,,48,1,17,name.com,,
 aa3c8b26-aa05-49d7-a992-05a2d1a66db8,WorldWarIV.app,available,22.98,,52,1,12,namecheap,,
+aa55a227-0929-468e-b399-8cd99b38e843,watercooler.app,resell,,,74,10,12,Dynadot LLC.,25/04/2026 20:57,25/04/2027 20:57
 aa747f5c-e3bc-42cc-8011-ebd1db7dce36,gettingeven.app,available,14.99,,48,1,12,name.com,,
 ab016d14-a504-4a61-a7fc-c2c706aad1fb,bedamned.app,available,14.99,,38,1,9,name.com,,
 abe5af39-80eb-48fe-a9c7-c8c09f77135b,behindbars.app,available,14.99,,60,6,11,name.com,,
@@ -370,7 +372,7 @@ b5d8e3d8-18b1-45ed-af7e-b272ba46b0ff,fittedsheet.app,premium,,,68,72,12,,,
 989de8db-82bb-4729-988b-8ce5792caa41,Chinesegeomancy.app,premium,,,62,72,16,,,
 39e88d5b-b49e-4e2f-b4af-db19fea7b120,noncancer.app,premium,,,70,72,9,,,
 7bd63659-7834-4508-b726-c033aff1f720,apatheist.app,premium,,,52,76,9,,,
-d7661012-135a-47d7-949c-c2160aa43dbe,notwithstanding.app,premium,,,60,3,15,,,
+d7661012-135a-47d7-949c-c2160aa43dbe,notwithstanding.app,premium,,,60,2,15,,,
 428faac6-5dd5-477d-b0ab-99ec2f7e6014,brownware.app,premium,,,56,76,9,,,
 b50bbde2-1478-40ed-bb76-5bbd5a64e953,repositioning.app,premium,,,62,72,13,,,
 898c95d3-6e71-4ca0-81a2-463dfdaee04f,commonleopard.app,premium,,,50,0,14,,,
@@ -997,5 +999,3 @@ b6344733-bfdd-496f-8719-152aa39408dc,alhaji.app,premium,,,60,72,6,,,
 3af46154-11fc-4d60-8db9-97f0145f9d77,secondpersonplural.app,premium,,,64,72,20,,,
 2129cf5f-9362-4d08-9f28-cca6ec5e22ca,flashthecash.app,premium,,,58,72,14,,,
 d94ac3a8-e58c-42af-b35c-2b5bcb70b1a0,underwriters.app,premium,,,,76,12,,,
-32c4352a-3642-434a-a78e-86d89aa0d156,rejuvenations.app,premium,,,,12,13,,,
-81ae6267-6341-4588-910d-49968edb647a,headwear.app,premium,,,56,88,8,,,
