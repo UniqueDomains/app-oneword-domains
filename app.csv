@@ -59,6 +59,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 283cac41-e09e-493f-86e8-79a106103648,pittsburgh.app,resell,,,66,17,10,Nom-IQ Limited dba Com Laude,08/05/2018 16:26,08/05/2027 16:26
 28e26a67-b3c1-4cba-984c-13d431c5270e,snuck.app,available,14.99,,46,3,5,name.com,,
 290fb149-ecc5-408c-a2a3-2487001ed6b6,webshop.app,resell,,,76,22,8,"Global Domains International, Inc. DBA DomainCostClub.com",08/10/2022 01:58,08/10/2026 01:58
+29ecd71b-6753-4e6d-80d6-25ce71b42b4e,evrything.app,premium,,,64,3,9,,,
 2a93e825-c3d6-4dbf-a04b-7edb8358aeed,refused.app,premium,61.25,,50,4,7,name.com,,
 2af36a90-8e15-4fae-b41a-69ffe1cce338,counterfeits.app,available,14.99,,40,2,12,name.com,,
 2b2360f4-d284-4e37-8ac6-8673e1823582,spiders.app,resell,,,56,10,7,"Global Domains International, Inc. DBA DomainCostClub.com",30/01/2022 08:46,30/01/2027 08:46
@@ -77,7 +78,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 367664f7-0a77-44d9-8a28-3be8f74bad7f,stepin.app,resell,,,74,8,7,"Global Domains International, Inc. DBA DomainCostClub.com",29/01/2026 08:07,29/01/2027 08:07
 36c9bab4-3c25-4078-adfa-67851b8ca951,recessions.app,available,14.99,,46,2,10,name.com,,
 36cf6529-b4d5-41a0-a978-fc440b641f86,sidewindow.app,available,14.99,,44,1,11,name.com,,
-3709c9c0-1bf8-470d-92aa-d9efe7c26bf5,blackpanther.app,premium,61.25,,80,10,13,name.com,,
+3709c9c0-1bf8-470d-92aa-d9efe7c26bf5,blackpanther.app,premium,61.25,,80,9,13,name.com,,
 37e81d31-ffc3-4d38-bc35-589260d78ccd,filingfees.app,available,14.99,,46,1,11,name.com,,
 3968abf5-87f0-44b0-9e31-a82c1e1eec2f,strepthroat.app,available,14.99,,68,2,12,name.com,,
 3bd88b95-737e-4def-9df0-ce5fa472c724,childmurderer.app,available,14.99,,30,1,14,name.com,,
@@ -273,12 +274,11 @@ c27d9a92-d727-4ce3-8cce-026461e468dd,HarryPotter.app,resell,,,72,20,12,"GoDaddy.
 c362c7b7-de5c-4c0f-bd21-3ff490793d99,neighbours.app,resell,,,53,7,10,Porkbun LLC,26/03/2025 05:05,26/03/2027 05:05
 c3e30418-f4ab-4245-85b2-bdd7aaf8c585,slipthrough.app,available,14.99,,66,1,12,name.com,,
 c3fbfd4f-bf6b-4018-ab5b-b293b99dc854,Keith.app,resell,,,66,25,5,"GoDaddy.com, LLC",08/05/2018 16:23,08/05/2028 16:23
-c43671e6-0264-45c1-ba0f-65471b4d081c,wasnt.app,available,14.99,,62,2,5,name.com,,
+c43671e6-0264-45c1-ba0f-65471b4d081c,wasnt.app,available,14.99,,62,3,5,name.com,,
 c5303d40-7326-4c36-bb76-6f12fb835087,toexcess.app,available,14.99,,55,0,9,name.com,,
 c5d3c5ce-266d-419e-89a7-78adc7bd790e,dustbunnies.app,available,14.99,,38,5,12,name.com,,
 c64dc72b-144c-4425-ae2b-8e33bae0d951,rubbed.app,available,14.99,,62,2,6,name.com,,
 c80984a8-4f26-481c-b7a6-8b9e71cf1145,dropabombshell.app,available,14.99,,58,0,16,name.com,,
-ca826688-2ea2-4be7-a4c4-d16036b82ad8,onemoment.app,resell,,,84,7,10,"Sav.com, LLC",22/05/2025 17:49,22/05/2026 17:49
 cbde371d-b973-463b-b1c1-404fb6326491,saveup.app,resell,,,78,5,7,"Sav.com, LLC",28/01/2026 11:23,28/01/2027 11:23
 cc16b6e7-f023-4273-9c19-9f0be42aec7f,turntup.app,available,14.99,,76,2,8,name.com,,
 cddf2d4b-1017-4e97-9609-0f7429c7d198,ebooks.app,resell,,,62,19,6,"Global Domains International, Inc. DBA DomainCostClub.com",20/07/2020 08:09,20/07/2026 08:09

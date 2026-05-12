@@ -81,7 +81,7 @@ print(df.head())
 | errors.app           | premium   | $61.25    | —             | 46             | 11     | 6      | name.com                      |
 | twentyseven.app      | available | $14.99    | —             | 65             | 7      | 12     | name.com                      |
 | escort.app           | resell    | —         | —             | 86             | 84     | 6      | 1API GmbH                     |
-| blackpanther.app     | premium   | $61.25    | —             | 80             | 10     | 13     | name.com                      |
+| massages.app         | premium   | $57.82    | $57.82        | 61             | 10     | 8      | namesilo                      |
 | snowballs.app        | available | $14.99    | —             | 59             | 7      | 9      | name.com                      |
 | wishbone.app         | resell    | —         | —             | 70             | 84     | 8      | Namecamp Limited              |
 
