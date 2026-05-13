@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 01277e1b-90cf-4417-96d2-5ad14c6b037a,pans.app,resell,,,52,8,4,Dynadot LLC.,15/04/2023 17:29,15/04/2027 17:29
 01bb861b-e5e9-4bfd-aaa2-a0b118bd6b6f,norfolk.app,resell,,,74,14,7,Nom-IQ Limited dba Com Laude,09/05/2018 01:55,09/05/2027 01:55
-030a991f-30ff-40f9-89ac-584296d52dda,Dicks.app,resell,,,56,14,5,"Sav.com, LLC",03/02/2026 05:09,03/02/2027 05:09
+030a991f-30ff-40f9-89ac-584296d52dda,Dicks.app,resell,,,56,15,5,"Sav.com, LLC",03/02/2026 05:09,03/02/2027 05:09
 035a937e-4b9c-4195-a48d-c1939d34e719,shorted.app,available,14.99,,61,4,7,name.com,,
 03fb48e0-eba2-48c4-8f17-c50660d04f61,proxyfight.app,available,14.99,,44,1,11,name.com,,
 0451f747-bb87-4d32-8b91-b580800a2d65,uptill.app,available,14.99,,50,1,7,name.com,,
@@ -118,6 +118,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 584ce93e-018e-4f91-8fe1-fc055bf1c671,shoveover.app,available,14.99,,59,1,10,name.com,,
 5b7338da-68a6-436b-9a91-671dde70a266,wannabet.app,resell,,,62,6,9,Dynadot LLC.,15/03/2025 01:03,15/03/2027 01:03
 5b8e5c7e-e5e5-4acf-a25b-5df349dd156c,puddings.app,available,14.99,,57,2,8,name.com,,
+5c00fd0a-c193-4cd8-b783-a1a61f02f410,Nicki.app,premium,,,66,10,5,,,
 5c479351-f4dd-478d-8e01-60494f094d04,smarted.app,resell,,,53,5,7,Porkbun LLC,21/09/2025 12:39,21/09/2026 12:39
 5d80f227-f0a5-40cb-94c2-5cc4e0621037,smashandgrab.app,available,14.99,,48,2,14,name.com,,
 5e051fbc-45df-4b40-bdb9-184fdab1470f,prowlers.app,available,14.99,,40,2,8,name.com,,
@@ -253,7 +254,7 @@ b0d8b130-ce3d-4707-9c47-4e848ed056d3,toburn.app,available,14.99,,50,1,7,name.com
 b2383413-a2fb-4dce-9ce5-4ee7971313fc,monopolizing.app,available,14.99,,40,1,12,name.com,,
 b25c6532-2bcd-42a8-995f-190fff174465,proxymurder.app,available,14.99,,36,1,12,name.com,,
 b266d34b-233c-454a-a3d1-7b21dcec2423,godownhill.app,available,14.99,,68,1,11,name.com,,
-b3a61797-a93e-4abc-9081-a16ba858267b,transitions.app,resell,,,56,14,11,"Sav.com, LLC - 3",09/12/2025 21:30,09/12/2026 21:30
+b3a61797-a93e-4abc-9081-a16ba858267b,transitions.app,resell,,,56,15,11,"Sav.com, LLC - 3",09/12/2025 21:30,09/12/2026 21:30
 b4998270-552d-4883-a161-9623a12350b0,budgets.app,resell,,,60,7,7,"GoDaddy.com, LLC",10/10/2021 12:15,10/10/2026 12:15
 b5bb31a4-cffb-4288-851b-1b9296406aea,slipin.app,available,14.99,,65,2,7,name.com,,
 b6de1820-8343-4b50-aa3c-bdf82cd06a95,somuchfor.app,available,14.99,,46,0,11,name.com,,
@@ -325,6 +326,7 @@ ea43bf46-ef2a-4eea-938e-08de1e487717,alters.app,resell,,,52,6,6,"Sav.com, LLC",0
 eadde561-647a-4856-a012-5204a9a6c544,sameoldstuff.app,available,14.99,,34,1,14,name.com,,
 eb023738-b0df-46ca-97a2-9c9887ceebc5,oppositions.app,available,14.99,,48,2,11,name.com,,
 ece95a7f-8d84-48f1-b9b0-414ce2750903,nauseousness.app,available,14.99,,58,1,12,name.com,,
+ee76df06-8ca6-442a-8f24-35b8b9b53901,mealdeal.app,premium,,,76,6,9,,,
 eea6fe29-a487-406d-b939-6dcf121f27d5,sneezed.app,available,14.99,,47,2,7,name.com,,
 efc50a02-b069-4074-bae0-350bbed9ead6,blewit.app,available,14.99,,44,2,7,name.com,,
 efc8403a-f5dc-4f56-a032-84117d0dc900,underprotest.app,available,14.99,,30,1,13,name.com,,
@@ -997,5 +999,3 @@ b6344733-bfdd-496f-8719-152aa39408dc,alhaji.app,premium,,,60,72,6,,,
 6c3924d8-9831-4346-b8bf-c7bea70c3f1c,exercisebike.app,premium,,,70,3,13,,,
 21f6a7af-37c3-4e76-a51b-eafd0f820cd1,Lorentzcontraction.app,premium,,,56,72,19,,,
 3af46154-11fc-4d60-8db9-97f0145f9d77,secondpersonplural.app,premium,,,64,72,20,,,
-2129cf5f-9362-4d08-9f28-cca6ec5e22ca,flashthecash.app,premium,,,58,72,14,,,
-d94ac3a8-e58c-42af-b35c-2b5bcb70b1a0,underwriters.app,premium,,,,76,12,,,
