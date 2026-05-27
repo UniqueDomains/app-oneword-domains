@@ -39,11 +39,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1b3569a8-3963-49aa-b060-9768c0913e76,godmode.app,resell,,,74,18,8,Namecheap Inc.,16/12/2024 05:57,16/12/2026 05:57
 1ead48e3-dd8c-4abc-961c-6c076b93fd15,disorders.app,premium,57.82,57.82,46,5,9,namesilo,,
 1f40ad0f-fc9d-4a13-b76d-af26817c00ca,backtaxes.app,available,14.99,,62,2,10,name.com,,
-1f4a6283-c1d9-4a6c-a5d6-21dbe7c214e4,indanger.app,available,14.99,,60,1,9,name.com,,
+1f4a6283-c1d9-4a6c-a5d6-21dbe7c214e4,indanger.app,available,14.99,,60,2,9,name.com,,
 1fa8df63-c2ee-49c1-842b-4d8b54bd243c,gonedownthetube.app,available,14.99,,30,1,18,name.com,,
 1fe9c15d-95f9-4918-9a81-2d5e7b336a91,votes.app,premium,123.75,,60,11,5,name.com,,
 20aaf72a-4766-4fa6-94a2-9f4221ed51cc,legislative.app,premium,,,70,6,11,,,
-20b52c97-1a86-480f-9293-0286ed026c39,flashflooding.app,available,14.99,,52,0,14,name.com,,
+20b52c97-1a86-480f-9293-0286ed026c39,flashflooding.app,available,14.99,,52,1,14,name.com,,
 21273705-2316-4457-8c16-a067052aee5f,worldsapart.app,available,14.99,,64,3,12,name.com,,
 21516b27-a4d3-4bb8-af0d-1b826b3a4549,keepunder.app,available,14.99,,66,0,10,name.com,,
 2292bec8-e229-4581-88d5-81d0cb87c4b6,dangers.app,premium,61.25,,46,6,7,name.com,,
@@ -109,7 +109,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4d96160c-d916-4b91-ad4b-3d7b22997747,gonowhere.app,available,14.99,,62,2,10,name.com,,
 4e97fec2-38fe-4379-bb34-fb0c7f0f560c,advertisement.app,premium,248.75,,72,13,13,name.com,,
 4ef5caf1-576d-4571-815e-2186aa613d67,havenosympathy.app,available,14.99,,54,1,16,name.com,,
-4f26041e-34de-476a-b630-1e57a0808a9e,filewith.app,available,14.99,,68,2,9,name.com,,
+4f26041e-34de-476a-b630-1e57a0808a9e,filewith.app,available,14.99,,68,1,9,name.com,,
 4f6807b9-c173-4928-a1e9-24d82c3fd972,getsick.app,available,14.99,,72,1,8,name.com,,
 5025b9e9-d209-47f5-8680-15e984e7b936,errors.app,premium,61.25,,46,11,6,name.com,,
 50f96f6b-a275-4c06-a6f1-24d521234ff1,sucked.app,available,14.99,,54,4,6,name.com,,
@@ -119,7 +119,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5520fb30-709c-4d77-81f2-c3ece837edea,niggers.app,available,14.99,,37,13,7,name.com,,
 5591c98f-bf10-4d94-9607-f73ce523e581,PopeGregoryI.app,available,22.98,,28,1,14,namecheap,,
 5596fe9f-abba-4de3-8b05-2667b03a5e11,distresscall.app,available,14.99,,32,1,13,name.com,,
-58496b97-a544-4208-8cda-0ac32213da5f,chickenout.app,available,14.99,,74,1,11,name.com,,
+58496b97-a544-4208-8cda-0ac32213da5f,chickenout.app,available,14.99,,74,2,11,name.com,,
 584ce93e-018e-4f91-8fe1-fc055bf1c671,shoveover.app,available,14.99,,59,1,10,name.com,,
 5b7338da-68a6-436b-9a91-671dde70a266,wannabet.app,resell,,,62,6,9,Dynadot LLC.,15/03/2025 01:03,15/03/2027 01:03
 5b8e5c7e-e5e5-4acf-a25b-5df349dd156c,puddings.app,available,14.99,,57,2,8,name.com,,
@@ -275,7 +275,7 @@ ba480ced-05c0-4f07-bce7-34ff911ace49,alcoholintoxication.app,available,14.99,,48
 bb03d2bd-a165-4ad7-b231-86e00a4b847d,geton.app,resell,,,82,10,6,West263 International Limited,17/05/2018 06:13,17/05/2027 06:13
 bbb701a7-75f3-415c-baf1-23dedc7cc1dd,parkingfine.app,available,14.99,,46,2,12,name.com,,
 bf59c912-b48a-4121-a192-afbf65b39606,overanxious.app,available,14.99,,64,1,12,name.com,,
-c07e1803-071d-4174-b18d-0697a23a8f0d,etc.app,resell,,,58,34,3,Porkbun LLC,23/02/2025 07:01,23/02/2027 07:01
+c07e1803-071d-4174-b18d-0697a23a8f0d,etc.app,resell,,,58,32,3,Porkbun LLC,23/02/2025 07:01,23/02/2027 07:01
 c1ca4f34-25e9-4aff-a296-9416864cfd02,stuffyou.app,available,14.99,,44,1,9,name.com,,
 c1e310be-2492-41f4-9470-648ff6c6dca8,finalreckoning.app,available,14.99,,58,2,15,name.com,,
 c2327900-9370-4553-8783-90b1c3a3c317,receptions.app,available,14.99,,53,4,10,name.com,,
@@ -341,7 +341,7 @@ efc50a02-b069-4074-bae0-350bbed9ead6,blewit.app,available,14.99,,44,2,7,name.com
 efc8403a-f5dc-4f56-a032-84117d0dc900,underprotest.app,available,14.99,,30,1,13,name.com,,
 f018fdfb-13c6-4f6b-988a-c0e7b35534cc,congratulations.app,resell,,,84,7,15,"Spaceship, Inc.",08/05/2018 18:09,08/05/2027 18:09
 f07c283c-29fb-4d60-999b-69ad4529c321,twentyseven.app,available,14.99,,65,7,12,name.com,,
-f135f8f8-a00e-4448-9e85-a7f0f3a9ddcb,couldnotcareless.app,available,14.99,,38,0,19,name.com,,
+f135f8f8-a00e-4448-9e85-a7f0f3a9ddcb,couldnotcareless.app,available,14.99,,38,1,19,name.com,,
 f1be537f-bb29-4e4e-8a2e-5d54f18888a8,pickupline.app,available,14.99,,76,2,12,name.com,,
 f2826994-0cde-4381-9c00-9d813a0a4c51,mosquitos.app,available,14.99,,42,5,9,name.com,,
 f3895be7-80f8-4935-896e-7057bf21f14c,gobeyond.app,resell,,,76,19,9,"Global Domains International, Inc. DBA DomainCostClub.com",25/03/2022 08:26,25/03/2027 08:26
@@ -351,7 +351,7 @@ f6553fcb-a846-45b0-bdc8-643cd9bb630e,collapsed.app,available,14.99,,38,3,9,name.
 f7a5651f-24cc-4009-9fdb-cb950e373de3,mostwanted.app,resell,,,54,10,11,Porkbun LLC,24/01/2023 14:24,24/01/2027 14:24
 f7a74d85-6705-431c-9e13-88203bf5be8a,gobankrupt.app,available,14.99,,68,2,11,name.com,,
 f7e874e9-082d-4aa5-b0c4-c70c1c2f7f9e,suspicions.app,available,14.99,,43,2,10,name.com,,
-f8145c00-ddcc-41fc-a698-019453dfef18,stronger.app,resell,,,67,19,8,Dynadot LLC.,29/08/2023 21:39,29/08/2026 21:39
+f8145c00-ddcc-41fc-a698-019453dfef18,stronger.app,resell,,,67,17,8,Dynadot LLC.,29/08/2023 21:39,29/08/2027 21:39
 f85f46e1-ce7e-4e78-907b-cb5453a10660,letterofdismissal.app,available,14.99,,44,1,19,name.com,,
 f8c9a0c6-dfe7-4f56-a4b4-4204d5e0d89b,sedated.app,available,14.99,,43,2,7,name.com,,
 f93b79ff-e206-4378-be97-d915419fa4e4,relations.app,premium,,,76,10,9,,,
