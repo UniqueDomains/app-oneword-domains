@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .app one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 60,153 domains · **Median ask:** $69.40 · **High-demand under $2,500:** 123
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/app`
 **Best for:** founders, investors, studios
 
@@ -65,6 +65,7 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | fancy.app     | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| cocktail.app  | premium   | $1,998.75 | —             | high           | low    | 8      | name.com                                                  |
 | cxxv.app      | available | $10.98    | $22.98        | low            | low    | 4      | namecheap                                                 |
 | BHO.app       | resell    | —         | —             | high           | high   | 3      | West263 International Limited                             |
 | beaded.app    | premium   | $57.82    | $57.82        | low            | low    | 6      | namesilo                                                  |
@@ -79,7 +80,6 @@ print(df.head())
 | buddhist.app  | premium   | $118.80   | $118.80       | medium         | low    | 8      | namesilo                                                  |
 | bagdad.app    | available | $14.99    | —             | medium         | low    | 6      | name.com                                                  |
 | cane.app      | resell    | —         | —             | medium         | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| cocktail.app  | premium   | $1,998.75 | —             | high           | low    | 8      | name.com                                                  |
 | fijian.app    | available | $10.98    | $22.98        | low            | low    | 6      | namecheap                                                 |
 | deal.app      | resell    | —         | —             | medium         | low    | 4      | GrepApps Technology Inc.                                  |
 | decorated.app | premium   | $57.82    | $57.82        | medium         | low    | 9      | namesilo                                                  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .APP One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .APP One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
