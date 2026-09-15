@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
-78f398f9-24fb-42e5-bd08-095d2dd9725a,honorably.app,available,,,medium,high,9,,,
+78f398f9-24fb-42e5-bd08-095d2dd9725a,honorably.app,available,6.98,22.98,medium,low,9,namecheap,,
 1510863c-483f-4208-823a-3adaa2b82ae7,convinces.app,available,,,low,low,9,,,
 e4151a9b-6a99-4b29-9340-c78b51a38979,stickup.app,available,,,medium,high,8,,,
 5d0312e3-4a8d-463d-a4af-53980e5a0660,knightofthestick.app,available,,,low,high,19,,,
@@ -129,7 +129,7 @@ fae3fd18-c19f-48b8-8c2a-43b6e3afea2d,intermingling.app,available,,,medium,high,1
 4490bbf5-931f-4e35-b53b-9acf3d883a08,musclememory.app,available,,,medium,high,13,,,
 04102213-2318-4c74-86e3-bd626ea357cb,Weyewa.app,available,,,high,high,6,,,
 8d7a2182-7ae0-4d08-a6e8-10f4af7e71d1,sharpies.app,available,,,low,low,8,,,
-5050b8e9-c309-47d2-a3a6-e8cffff425db,glowingly.app,available,,,medium,high,9,,,
+5050b8e9-c309-47d2-a3a6-e8cffff425db,glowingly.app,available,6.98,22.98,low,low,9,namecheap,,
 58916ced-5727-4967-bcbf-37c354ee83f8,goldsmithery.app,available,,,medium,high,12,,,
 7318daac-63ce-4aec-b56c-46fd4707265e,Staploe.app,available,,,medium,high,7,,,
 a1695675-4b83-4c5d-a2b0-fd17276a62e1,slashtag.app,available,,,medium,high,8,,,
@@ -674,7 +674,7 @@ ca7143b2-6bce-47ea-8a48-3445cbb50ff5,midwall.app,available,,,medium,high,7,,,
 ace857bf-694f-4c8a-9564-596240e828aa,lol.app,resell,,,high,low,3,1API GmbH,04/05/2018 16:00,04/05/2027 16:00
 2a002b2e-e66b-4a71-8858-492507f31af3,Elkesley.app,available,,,medium,high,8,,,
 0f5d2605-d4ed-4166-898e-8a86d553a8d4,fancy.app,resell,,,high,low,5,"Global Domains International, Inc. DBA DomainCostClub.com",12/06/2020 20:59,12/06/2026 20:59
-1bee81da-f0d6-42b8-8b37-0aceda3e639f,byrights.app,available,,,medium,high,9,,,
+1bee81da-f0d6-42b8-8b37-0aceda3e639f,byrights.app,available,6.98,22.98,low,low,9,namecheap,,
 ad690b8b-f358-4d59-90bc-cb92764b91c3,turnbuckles.app,available,,,low,low,11,,,
 5607bd0c-c8f8-499a-95b7-85237d1077db,garden.app,resell,,,high,low,6,Namecamp Limited,05/05/2018 16:00,05/05/2027 16:00
 9149b401-b5b0-4ae1-aa81-36e11007c109,factorVII.app,available,,,medium,high,10,,,
