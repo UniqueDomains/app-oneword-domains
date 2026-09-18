@@ -1,10 +1,10 @@
-# Available .APP One-Word Domains (64,405)
+# Available .APP One-Word Domains (64,911)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-64%2C405%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-64%2C911%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .app one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **64,405 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **64,911 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 64,405 domains · **Median ask:** $48.03 · **High-demand under $2,500:** 107
+**Public extract:** 1,000 rows · **Live catalog:** 64,911 domains · **Median ask:** $46.62 · **High-demand under $2,500:** 104
 
 **Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/app`
@@ -75,7 +75,7 @@ print(df.head())
 | beaded.app   | premium   | $57.82    | $57.82        | low            | low    | 6      | namesilo                                                  |
 | aargh.app    | available | $9.99     | $22.99        | medium         | high   | 5      | name.com                                                  |
 | lol.app      | resell    | —         | —             | high           | low    | 3      | 1API GmbH                                                 |
-| dresses.app  | premium   | $248.75   | $248.75       | medium         | low    | 7      | name.com                                                  |
+| dresses.app  | premium   | $254.72   | $254.72       | low            | low    | 7      | namesilo                                                  |
 | xxiii.app    | available | $10.98    | $22.98        | low            | low    | 5      | namecheap                                                 |
 | pig.app      | resell    | —         | —             | high           | low    | 3      | West263 International Limited                             |
 | barbeque.app | premium   | $61.25    | —             | high           | low    | 8      | name.com                                                  |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 64,405 live domains                        |
+| 1,000-row public sample | 64,911 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 107 high-demand names under $2,500         |
+| Basic exported fields   | 104 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
