@@ -1,10 +1,10 @@
-# Available .APP One-Word Domains (65,377)
+# Available .APP One-Word Domains (65,919)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-65%2C377%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-65%2C919%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .app one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **65,377 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **65,919 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 65,377 domains · **Median ask:** $45.36 · **High-demand under $2,500:** 101
+**Public extract:** 1,000 rows · **Live catalog:** 65,919 domains · **Median ask:** $44.81 · **High-demand under $2,500:** 99
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/app`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | cocktail.app | premium   | $1,998.75 | —             | high           | low    | 8      | name.com                                                  |
 | woman.app    | resell    | —         | —             | high           | low    | 5      | Squarespace Domains II LLC.                               |
 | cxxv.app     | available | $10.98    | $22.98        | low            | low    | 4      | namecheap                                                 |
-| bho.app      | resell    | —         | —             | high           | high   | 3      | West263 International Limited                             |
+| advise.app   | resell    | $5,173.85 | $123.75       | high           | high   | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
 | agar.app     | premium   | $510.72   | $510.72       | low            | low    | 4      | namesilo                                                  |
 | lxvi.app     | available | $10.98    | $22.98        | low            | low    | 4      | namecheap                                                 |
-| deq.app      | resell    | —         | —             | low            | low    | 3      | West263 International Limited                             |
+| bho.app      | resell    | —         | —             | high           | high   | 3      | West263 International Limited                             |
 | shaw.app     | premium   | $128.70   | $128.70       | low            | low    | 4      | namecheap                                                 |
 | aargh.app    | available | $9.99     | $22.99        | medium         | high   | 5      | name.com                                                  |
-| lol.app      | resell    | —         | —             | high           | low    | 3      | 1API GmbH                                                 |
+| deq.app      | resell    | —         | —             | low            | low    | 3      | West263 International Limited                             |
 | beaded.app   | premium   | $57.82    | $57.82        | low            | low    | 6      | namesilo                                                  |
 | xxiii.app    | available | $10.98    | $22.98        | low            | low    | 5      | namecheap                                                 |
-| cane.app     | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                           |
+| lol.app      | resell    | —         | —             | high           | low    | 3      | 1API GmbH                                                 |
 | dresses.app  | premium   | $254.72   | $254.72       | low            | low    | 7      | namesilo                                                  |
 | bagdad.app   | available | $14.99    | —             | medium         | low    | 6      | name.com                                                  |
-| sits.app     | resell    | —         | —             | low            | low    | 4      | Sav.com, LLC                                              |
+| cane.app     | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                           |
 | barbeque.app | premium   | $61.25    | —             | high           | low    | 8      | name.com                                                  |
-| fijian.app   | available | $10.98    | $22.98        | low            | low    | 6      | namecheap                                                 |
-| bowls.app    | resell    | —         | —             | medium         | low    | 5      | Sav.com, LLC                                              |
+| basuco.app   | available | $10.99    | $16.99        | low            | low    | 6      | namesilo                                                  |
+| sits.app     | resell    | —         | —             | low            | low    | 4      | Sav.com, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 65,377 live domains                        |
+| 1,000-row public sample | 65,919 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 101 high-demand names under $2,500         |
+| Basic exported fields   | 99 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .APP One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .APP One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
