@@ -14,7 +14,7 @@ abc1de15-a94f-4846-8989-45a8401b7c02,disembark.app,available,10.99,16.99,high,hi
 4ee6c218-feea-4964-8eda-3aa83d57b5e6,egregious.app,available,10.98,22.98,medium,low,9,namecheap,,,15/08/2026 19:48
 6bb1d367-d22a-4ba0-a7f2-aa8c914a971a,youtubian.app,available,,,high,high,9,,,,
 3d3d9676-4d54-4f17-b919-3f934d69b994,briny.app,available,10.98,22.98,high,low,5,namecheap,,,11/08/2026 04:25
-3f26cbca-93a8-4123-bfc9-1a1748230faa,multinational.app,available,10.99,16.99,high,high,13,namesilo,,,27/09/2026 06:58
+3f26cbca-93a8-4123-bfc9-1a1748230faa,multinational.app,available,8.75,14.93,high,low,13,porkbun,,,01/10/2026 05:37
 31aff876-913e-4400-8292-d4a10fcac7cd,unleavened.app,available,6.98,22.98,high,low,10,namecheap,,,12/09/2026 14:46
 3ebd947f-cbdf-47cc-a1b5-76f5f7046c0a,drinamyl.app,available,,,medium,low,8,,,,
 36cf1ffb-56e6-4350-a06d-5f3ff1cebc39,rosebudding.app,available,,,high,low,11,,,,
@@ -42,6 +42,7 @@ edbfe223-10bf-4e69-9012-653b2680a706,whittener.app,available,,,high,high,9,,,,
 18f04a0e-2ae9-4146-be97-baf991c0cc76,athokpam.app,available,,,high,high,8,,,,
 fa56ef24-c75a-422d-b5dc-60501b49b84e,spinous.app,available,10.98,22.98,medium,low,7,namecheap,,,
 1a361edc-1082-45b9-a03f-482331c6f63e,laval.app,resell,,,high,low,5,,,,28/09/2026 05:09
+00e835cc-bbe2-4f03-a261-734d10513232,aristophanes.app,available,8.2,14.2,medium,low,12,cloudflare,,,02/10/2026 00:26
 ff27c877-d451-406c-b946-f573b6327fbf,abidden.app,available,,,medium,low,7,,,,
 178f2c44-931c-4966-9edb-7d850d220105,seasoning.app,available,,,high,high,9,,,,
 a0e2c3e5-d840-4eff-ba51-431f8f1703f5,antipathy.app,available,10.99,16.99,medium,low,9,namesilo,,,19/09/2026 14:53
@@ -93,6 +94,7 @@ cc617d33-e9cb-4da7-8360-b72c8da19ec3,hollo.app,resell,,,high,low,5,Dynadot LLC.,
 eced7243-7889-4d79-83f8-1f22288b497a,aspirer.app,available,10.98,22.98,medium,low,7,namecheap,,,07/08/2026 05:12
 0d8c715a-a664-4365-b3eb-85f13ba2bc2a,christ.app,resell,,,high,low,6,Dynadot LLC.,25/04/2025 17:16,25/04/2027 17:16,29/09/2026 09:03
 b1a54eff-42dd-471f-8a65-da15f2d6cca6,temperamentally.app,available,,,high,high,15,,,,
+5c32ac1f-0e0b-418b-9347-c9852248bc5e,daniela.app,premium,108.6,108.6,medium,low,7,porkbun,,,02/10/2026 01:34
 74bd6fd5-9f50-49a4-b0e0-d296ef1e558b,riser.app,resell,,,high,high,5,Dynadot LLC.,25/07/2022 17:39,25/07/2027 17:39,26/09/2026 08:41
 b2d4afba-0c85-41da-aa8c-5210ec5f6474,bothered.app,available,10.99,16.99,high,low,8,namesilo,,,23/09/2026 01:08
 fb203d91-440d-467b-b787-34be949222c5,infodesk.app,available,,,high,high,8,,,,
@@ -101,6 +103,7 @@ e4ac4bba-59ed-4d78-afd4-79cc3305be48,approbate.app,available,,,high,high,9,,,,
 145a0ae9-dcab-47ff-bb56-449695dba715,tipperary.app,available,19.5,,high,low,9,unstoppable,,,29/09/2026 09:36
 266eba60-f16f-4855-8281-fd65dd1561cf,isle.app,resell,,,high,low,4,"Spaceship, Inc.",08/05/2018 17:03,08/05/2027 17:03,30/09/2026 00:26
 23950971-8b31-4d8d-99dc-6f9ffebde64d,antidermatitis.app,available,,,medium,low,14,,,,
+b803f1d9-bc46-4b49-b808-7d1cdbc9e50a,csi.app,resell,,,high,low,3,,,,01/10/2026 22:38
 fca935e0-f4d1-4421-8431-ea2ecd00b178,loudhailer.app,available,,,high,high,10,,,,
 6b584b92-6658-4d9a-aebd-e7e832370a99,desecrated.app,available,10.98,22.98,medium,low,10,namecheap,,,14/08/2026 03:18
 62220114-f249-4dea-a599-7cd351922df0,magdalene.app,available,,,high,high,9,,,,
@@ -153,9 +156,11 @@ b53a50e4-9c80-42b6-932a-c0be0e229e58,telecourse.app,available,,,high,high,10,,,,
 ca129b89-a00e-44de-a50f-8781c3742a19,poncho.app,resell,,,high,high,6,"Global Domains International, Inc. DBA DomainCostClub.com",05/01/2021 11:32,05/01/2027 11:32,26/09/2026 08:14
 b002ffde-0c25-4874-91be-19282b440295,weser.app,available,,,high,high,5,,,,
 04d39fa4-ee4f-4d1c-911d-9a44892bf6fe,engender.app,available,,,high,high,8,,,,
+02985c21-0344-4091-a3ec-d577c92d843d,faking.app,available,8.75,14.93,medium,low,6,porkbun,,,02/10/2026 03:46
 75ab6f1f-3a72-4f1a-a5e3-e026369f321c,labrouste.app,available,,,high,high,9,,,,
 96f3ef69-c802-475c-94e2-bda44ce71a71,baserunning.app,available,,,high,high,11,,,,
 e0864c79-f9be-424e-8629-9a6eb3e34aba,boldface.app,available,10.98,22.98,high,low,8,namecheap,,,10/08/2026 17:43
+fd6e3ff3-dd02-47b6-9ea6-04e0d9518e85,scaring.app,available,10.99,16.99,medium,low,7,namesilo,,,02/10/2026 03:46
 d8a8120f-2015-4d49-9b90-40a50704c3e4,ironworking.app,available,,,high,low,11,,,,
 fb0fc81d-eb81-42fe-afe5-aa71bd94badd,keycard.app,resell,,,high,high,7,Atom.com Domains LLC,15/08/2022 17:02,15/08/2027 17:02,26/09/2026 07:04
 66d91918-df92-41bd-afde-9497ac48d1ae,federations.app,available,,,high,low,11,,,,
@@ -182,7 +187,7 @@ bcea2a9b-9862-4468-860c-a7eace4ad760,indwelling.app,available,10.98,22.98,high,l
 aee940fc-344a-4c10-86df-2170c61c21f8,entertainments.app,available,,,medium,low,14,,,,
 a5b9727c-c914-4022-a67c-ad0e8d01d622,portland.app,resell,,,high,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",02/08/2023 02:11,02/08/2027 02:11,30/09/2026 07:12
 2c0afd44-335f-4285-bbc2-b269cc06c7a8,plagued.app,available,14.2,14.2,medium,low,7,cloudflare,,,29/09/2026 03:23
-63e813b1-77ce-45e8-8161-f7d77f9e3f19,liquids.app,available,,,high,high,7,,,,
+63e813b1-77ce-45e8-8161-f7d77f9e3f19,liquids.app,premium,,,medium,low,7,,,,01/10/2026 14:18
 09d689ae-cf4f-4e3b-8439-5873072ad906,revamping.app,available,,,high,medium,9,,,,
 55d9b42c-4aa3-4808-b2be-fcdc2c9dfd56,unassuming.app,available,14.2,14.2,high,low,10,cloudflare,,,27/09/2026 13:26
 f136bef0-43d0-4b3e-8b53-1c3627b1d925,pillowcases.app,available,10.98,22.98,medium,low,12,namecheap,,,21/09/2026 01:49
@@ -204,6 +209,7 @@ dfba73cb-ce1a-493d-bfe9-b2ee8cdc8357,divorceable.app,available,,,high,low,11,,,,
 2919d072-aab0-4875-acd1-937665a52916,strove.app,available,,,high,high,6,,,,
 598aa650-d0da-4a55-9ce4-e7a04cb3b4d9,womansplaining.app,available,,,high,high,14,,,,
 cfb6592c-b21c-41a7-861e-f7262b3f1a90,celeriac.app,available,10.98,22.98,high,low,8,namecheap,,,19/09/2026 17:33
+62407c3a-b8a2-4ab2-ba6f-b1abe39f31e5,frontenac.app,available,10.99,16.99,medium,low,9,namesilo,,,02/10/2026 00:51
 fe841b41-acce-400e-9c5a-4806fd5852f8,abier.app,available,,,high,low,5,,,,
 b58eea9c-b488-4dec-9234-833f9db17249,chortles.app,available,,,medium,low,8,,,,
 43b4c439-0982-4221-aca3-9edae0ded756,fagan.app,available,10.99,16.99,high,low,5,namesilo,,,30/09/2026 05:33
@@ -250,11 +256,12 @@ a8b89b68-6c73-45bb-99b5-24260f171687,stanford.app,premium,254.72,254.72,high,low
 b2d32bda-f1fa-49dc-8371-dc5fe1213a9f,supplier.app,resell,,,high,low,8,"eNom, Inc.",27/06/2019 17:00,27/06/2027 17:00,30/09/2026 08:15
 1d27df29-cb78-4099-95b2-f3a280834d6e,syllabary.app,available,,,high,high,9,,,,
 fe784904-dcd6-4ace-b464-7f058408d9a8,raf.app,resell,,,high,low,3,Atom.com Domains LLC,08/09/2022 17:54,08/09/2027 17:54,27/09/2026 05:07
+6fd937e2-9afd-4e02-96fb-1f5865b302ef,umi.app,resell,,,medium,low,3,,,,01/10/2026 17:12
 2324095e-a6d3-4bf6-96c7-2e661150f532,activist.app,resell,,,high,low,8,"GoDaddy.com, LLC",08/05/2018 16:03,08/05/2027 16:03,26/09/2026 01:21
 46e77137-c744-4c9e-99e6-1973f3a0b375,goris.app,available,,,high,high,5,,,,
 04fb7031-4335-4ee7-9e44-de0ed2db12b8,corking.app,available,10.98,22.98,high,low,7,namecheap,,,08/08/2026 12:20
 8442f26b-bdaf-43b7-9bc5-9f433f625526,orangewood.app,available,,,high,high,10,,,,
-6d19633f-c5d0-4012-98b4-d907aadf8d16,task.app,resell,,,high,low,4,Dynadot LLC.,16/07/2024 18:26,16/07/2027 18:26,30/09/2026 05:01
+6d19633f-c5d0-4012-98b4-d907aadf8d16,task.app,resell,,,high,low,4,Dynadot LLC.,16/07/2024 18:26,16/07/2027 18:26,02/10/2026 03:42
 1d2a1237-679b-4720-90c3-38f8978706a7,kitchawong.app,available,,,high,high,10,,,,
 85763950-0260-4a34-b6f9-6338b727a477,ade.app,resell,,,high,low,3,"Global Domains International, Inc. DBA DomainCostClub.com",08/05/2018 16:00,08/05/2027 16:00,26/09/2026 01:22
 4938ccf7-fd7f-4a1d-a3d4-0063834c9183,keyless.app,resell,,,high,low,7,Dynadot LLC.,08/05/2018 16:04,08/05/2027 16:04,26/09/2026 07:04
@@ -293,6 +300,7 @@ cae62118-70b1-41bb-89d9-667302703e69,bakunin.app,available,10.98,22.98,high,low,
 35a6cbf5-b817-43eb-90c0-03c2245155ff,unabridged.app,available,,,high,low,10,,,,
 6028afd8-f1f8-46c7-881c-572d0128c860,prefixally.app,available,,,high,high,10,,,,
 27bd5943-f73b-4956-a77c-d047f004d148,nrca.app,available,,,high,high,4,,,,
+ebae22d9-5148-473c-9f59-ebabf0fe0b4f,hatteras.app,available,10.99,16.99,high,low,8,namesilo,,,01/10/2026 11:18
 1ccd4001-ae09-4232-a9e8-28e09d0b15f7,furnishing.app,available,19.5,16.99,high,low,10,unstoppable,,,28/09/2026 02:47
 4efa1574-903d-4afe-8139-a84b95472ff6,encouragements.app,available,,,medium,low,14,,,,
 ab4e461f-edf6-4652-be59-cde238f92871,highpriced.app,available,,,high,high,11,,,,
@@ -310,6 +318,7 @@ ebf44e7b-cf0c-4467-ad42-05d95fcc6376,mareth.app,available,,,high,high,6,,,,
 0b83b0af-f586-46a8-837b-53cfe9a09ce4,kinsha.app,available,,,high,high,6,,,,
 7a12876a-ddd0-45e0-a136-7f8ccd701c9f,nunki.app,available,,,high,high,5,,,,
 24bf3612-c295-4967-9613-5851de4740d5,exploits.app,resell,,,medium,low,8,,,,30/09/2026 15:37
+732ce06a-72da-4edd-ab3c-188e64dd5493,exhibiting.app,available,10.99,16.99,medium,low,10,namesilo,,,02/10/2026 02:10
 85d4f80f-f192-4914-a6c6-5f6f6b82b2fe,steadying.app,available,6.98,22.98,high,low,9,namecheap,,,10/09/2026 19:39
 f9e27cbb-5a30-4174-ba3f-4ca41b912dee,vanish.app,resell,,,high,low,6,,,,29/09/2026 14:13
 bc38f448-6850-42d8-b250-b5c01a3785ad,ats.app,resell,,,high,low,3,,,,29/09/2026 22:45
@@ -369,7 +378,7 @@ b4c72ac4-48a6-40c6-b66b-49952d07c73e,koch.app,resell,,,high,low,4,Dynadot LLC.,2
 97b6887f-7dc8-4756-a749-8d6af7594f7e,hyalin.app,available,10.98,22.98,medium,low,6,namecheap,,,21/08/2026 16:10
 03ee9fef-0d2b-478c-9e76-bb1bd1906270,stains.app,premium,49.2,,high,low,6,unstoppable,,,29/09/2026 22:47
 82f2f8e0-efb7-4862-872c-5af9ec369cd4,infective.app,available,10.98,22.98,high,low,9,namecheap,,,22/08/2026 04:14
-d45bea06-5481-4be9-a5a2-326face5c635,identifiable.app,available,,,high,high,12,,,,
+d45bea06-5481-4be9-a5a2-326face5c635,identifiable.app,available,19.5,,high,low,12,unstoppable,,,01/10/2026 22:54
 9752a94b-3ed0-4e29-9d0d-e0629ee961a4,capitalization.app,available,,,high,high,14,,,,
 cb36892f-6f62-4f47-b955-e9584e0a2590,coulombic.app,available,,,high,high,9,,,,
 7af36342-8c62-4a4c-bb6b-1b8a9ac2bd84,snugged.app,available,,,medium,low,7,,,,
@@ -438,6 +447,7 @@ d3a2d03a-ce5f-4dab-be88-59b146f6035c,shallows.app,available,,,high,high,8,,,,
 a8c4431a-d54b-47bf-bbd4-74afa98e5a60,swervingly.app,available,,,high,high,10,,,,
 d7f297b4-52bd-4a2a-bf33-64bf68fc860b,suffering.app,premium,57.82,57.82,high,low,9,namesilo,,,25/08/2026 01:27
 fe1ad95b-1d70-4fd4-a9c1-ea3edbe876a7,beleaguer.app,available,10.98,22.98,medium,low,9,namecheap,,,21/09/2026 17:03
+c34be591-3a94-425c-9949-7fdef73755a4,ibf.app,resell,,,high,low,3,,,,02/10/2026 00:20
 aa4c4c3b-6893-41d8-847f-476deca7f661,misspelling.app,available,,,high,medium,11,,,,
 24b3c3c5-25a9-4c33-95cf-56f865f85438,finessing.app,available,,,high,high,9,,,,
 cfb87266-53cb-45a8-8911-ba87a123bad0,snotty.app,available,10.98,22.98,high,low,6,namecheap,,,09/08/2026 20:42
@@ -556,7 +566,6 @@ be64ee1a-02a9-4514-aa51-e05ad7fb437b,condiments.app,available,9.99,26.99,high,lo
 8b6556d2-8beb-4424-89bf-39cbb93b9524,rested.app,resell,,,high,low,6,Namecamp Limited,01/08/2019 20:57,01/08/2027 20:57,27/09/2026 12:50
 29348e39-0f8d-4378-99ed-7754e18d1c5a,kilogram.app,resell,,,high,low,8,"GoDaddy.com, LLC",08/05/2018 17:05,08/05/2027 17:05,30/09/2026 01:44
 4fea28a3-6cac-4132-9ee7-337e13aaff32,clairvoyancy.app,available,,,high,high,12,,,,
-1f92ca33-297e-4ebb-8ecb-a3aea2f0322a,dip.app,resell,,,high,low,3,Namecheap Inc.,15/11/2020 05:32,15/11/2026 05:32,26/09/2026 05:34
 2a5c76f6-04d2-4799-91a5-35d96ac770b7,warning.app,premium,254.72,254.72,high,low,7,namesilo,,,13/09/2026 08:25
 f1f27003-ec17-4180-8c68-e15eb6415331,nightgown.app,available,,,high,high,9,,,,
 abdd877b-16f5-4e37-8681-84152ec4bafa,fatally.app,available,6.98,22.98,medium,low,7,namecheap,,,14/09/2026 17:51
@@ -602,8 +611,6 @@ bf8bc1c3-2826-4da7-b539-881cca9d7a0f,twinkled.app,available,,,medium,low,8,,,,
 60feb9e6-fc2d-4e6e-af7b-aa682205f6f4,pellmell.app,available,10.98,22.98,medium,low,9,namecheap,,,21/08/2026 01:07
 406ca2c4-7a16-443e-b966-f0636c63be38,broadcloth.app,available,,,high,high,10,,,,
 e2a59feb-e85f-444b-87d8-ac66fd79dc55,soviet.app,premium,118.8,118.8,high,medium,6,namesilo,,,10/09/2026 15:00
-b172a52d-e3ec-45bf-b427-7c03bb0f77ab,wrestled.app,available,,,medium,low,8,,,,
-d6b5e74f-8704-4d68-a118-e69cc6506e8e,sterilize.app,available,,,high,high,9,,,,
 99dfe256-5f94-41b8-86de-7e71b8b41164,commoditise.app,available,,,high,high,11,,,,
 75c8298d-1e8d-4de4-9c6d-fa1509365cd3,selfcontained.app,available,,,high,high,14,,,,
 2fda6449-5f8e-4c53-8e57-d60d501879cd,milkable.app,available,,,high,high,8,,,,
@@ -653,6 +660,7 @@ fb718508-35b8-4046-90fb-e931239ed031,unbeatability.app,available,,,high,high,13,
 ecc0d505-4776-43e4-a9cf-a586764647ea,reoccurrence.app,available,,,high,high,12,,,,
 1e6d8fc5-8363-4ba1-a256-cb529ba2bbfb,appears.app,premium,63.7,63.7,medium,low,7,namecheap,,,25/09/2026 20:18
 b1188f9a-0d56-4166-883e-160c5fc66040,fastmoving.app,available,,,high,high,10,,,,
+70fdfc6c-db86-4ed7-a316-eee935de7cce,predefined.app,available,10.98,22.98,high,low,10,namecheap,,,01/10/2026 16:01
 4f5cd909-f952-4c17-a3a6-2238dd0b227a,nilpotent.app,available,6.98,22.98,medium,low,9,namecheap,,,03/09/2026 17:28
 dd476594-c3d6-4eca-892a-4b44f11c3b14,otis.app,resell,,,high,low,4,GrepApps Technology Inc.,17/01/2024 11:31,17/01/2027 11:31,26/09/2026 07:57
 d420801a-ccfb-49e8-b530-f9e6e8a326d3,sass.app,resell,,,high,low,4,"Global Domains International, Inc. DBA DomainCostClub.com",22/07/2021 16:24,22/07/2027 16:24,26/09/2026 08:49
@@ -702,6 +710,7 @@ e471ad33-c456-47c8-af10-17fb90d5d994,powertrains.app,available,,,medium,low,11,,
 d94ce95e-1900-4665-be86-711deb5bcb58,transatlantic.app,available,10.99,16.99,high,low,14,namesilo,,,30/09/2026 14:47
 0ed88360-b723-421c-a1e1-09122e1b5358,gomel.app,available,,,high,high,5,,,,
 8db172c8-abdb-461b-b8db-63117db8b548,incertain.app,available,10.98,22.98,medium,low,9,namecheap,,,22/08/2026 01:10
+5847f9c6-1c26-47e8-86e3-02b2e29df8ec,mutilation.app,available,8.2,14.2,medium,low,10,cloudflare,,,01/10/2026 20:52
 52693802-7443-43ac-b04e-459cc3d97362,wainscotting.app,available,,,high,low,12,,,,
 1ae64507-5ef1-4afe-93ec-593de9f8e403,hothouse.app,available,,,high,high,8,,,,
 fa72d909-0316-49a9-8c19-3c2d5b3d6571,spermatic.app,available,6.98,22.98,high,medium,9,namecheap,,,10/09/2026 15:31
@@ -726,7 +735,7 @@ b9488ef5-2be7-4e43-8370-e10f0d612604,came.app,premium,254.72,254.72,high,low,4,n
 dda71c4a-5a01-4782-be81-8191f4fd8e31,septum.app,available,,,high,high,6,,,,
 125b622d-4737-4fe1-81f8-649486b89259,freeblown.app,available,,,high,high,10,,,,
 4d3c8316-1bff-4adc-b68c-61150b37c15b,wieland.app,available,,,high,high,7,,,,
-77f34602-155e-4fde-a0b1-af7902bc7bde,threatening.app,available,14.99,,high,low,11,name.com,,,
+77f34602-155e-4fde-a0b1-af7902bc7bde,threatening.app,available,8.2,14.2,high,low,11,cloudflare,,,01/10/2026 18:33
 426a9c13-8d63-4f35-b71b-309ac0f84c7f,moldavia.app,available,19.5,,high,low,8,unstoppable,,,29/09/2026 13:27
 e16b2c08-f9bd-48cb-8e67-a2ff6e6e0759,telekinetics.app,available,,,high,low,12,,,,
 d6e3d9bd-94af-4402-8145-60d05d9438a6,kisly.app,available,,,high,high,5,,,,
@@ -766,7 +775,7 @@ a5a849a8-8b73-4cae-8241-ddd843d85901,denominatives.app,available,,,low,low,13,,,
 3a14cd18-2321-4b85-9520-9e65b0911828,landward.app,available,6.98,22.98,high,low,8,namecheap,,,15/09/2026 10:39
 88463c46-3aa8-4161-91ff-b682cbeacc38,stamboul.app,available,,,high,high,8,,,,
 78a8249d-7b7b-4880-8192-63cf46f941d8,bugle.app,resell,,,high,high,5,"GoDaddy.com, LLC",18/12/2025 09:02,18/12/2027 09:02,26/09/2026 04:39
-2f2345ae-8e53-4b30-8763-dc2a432d8c70,diagnostics.app,premium,248.75,248.75,high,high,11,name.com,,,
+2f2345ae-8e53-4b30-8763-dc2a432d8c70,diagnostics.app,premium,206.17,206.17,high,low,11,spaceship,,,02/10/2026 01:39
 fcf5758c-8ae4-45c6-a899-3ed0a208df4f,nappies.app,available,,,high,low,7,,,,
 331d12a8-9781-471b-8592-a9099feef1fa,nonpareil.app,available,10.98,22.98,high,low,9,namecheap,,,24/08/2026 17:02
 389e1785-d47e-4c54-bbfa-a66856151690,housman.app,available,10.99,16.99,medium,low,7,namesilo,,,16/09/2026 12:57
@@ -796,6 +805,7 @@ c3b6570e-4398-4481-bcec-275c613504dc,thrilling.app,available,10.98,22.98,high,lo
 4913dc68-0406-495e-9909-782da01d67a5,indocanadian.app,available,,,high,high,13,,,,
 d3bc9ad4-766e-4efa-a005-ac1177ec09f8,doggies.app,available,,,high,medium,7,,,,
 3e1ca08c-b5d1-4e7a-a19d-894c5ffec123,midtier.app,available,,,high,low,7,,,,
+20f5bb4e-6fde-4bb7-97bd-0820c2be9313,pyotr.app,available,10.99,16.99,medium,low,5,namesilo,,,01/10/2026 11:42
 a0cb46e9-55ce-4e3c-8f93-5c1ce242a8ef,resembles.app,available,10.99,16.99,medium,low,9,namesilo,,,30/09/2026 07:07
 f4b12f1d-def1-4b75-ad7a-76a01637ffd0,maldivan.app,available,,,high,high,8,,,,
 12ceb5b5-cd5c-4047-a052-20b30d638499,tung.app,resell,,,high,low,4,"Global Domains International, Inc. DBA DomainCostClub.com",22/06/2019 00:04,22/06/2027 00:04,26/09/2026 09:48
@@ -830,11 +840,10 @@ b5e4f3c6-6ab8-454c-a24a-b7d0e7f81777,alborg.app,available,10.98,22.98,medium,low
 70f395f4-d507-43d2-9fd3-4815b71d534a,sava.app,resell,,,high,low,4,,,,30/09/2026 05:14
 b5a146f9-6a68-40e1-88ef-53bdda9a7871,agra.app,resell,,,high,low,4,"Global Domains International, Inc. DBA DomainCostClub.com",13/07/2020 05:44,13/07/2027 05:44,26/09/2026 01:27
 42fcc8d5-e963-4b61-bedc-8259c1c6c285,astrophotograph.app,available,,,high,high,15,,,,
-8848f76d-75d6-4cdd-a9bb-fb00ca63e963,course.app,resell,,,high,low,6,"Global Domains International, Inc. DBA DomainCostClub.com",30/06/2025 08:47,30/06/2027 08:47,28/09/2026 20:13
+8848f76d-75d6-4cdd-a9bb-fb00ca63e963,course.app,resell,,,high,low,6,"Global Domains International, Inc. DBA DomainCostClub.com",30/06/2025 08:47,30/06/2027 08:47,01/10/2026 08:17
 8e2bfa3c-f5e6-4282-bb31-331e2d9fbd78,analyser.app,resell,,,high,low,8,Dynadot LLC.,22/03/2025 21:00,22/03/2027 21:00,26/09/2026 03:51
 eed293ec-9a85-4e93-9bd3-6c319f7f7fe6,sry.app,available,,,high,high,3,,,,
 76a70314-4d9a-4e7e-afcf-9413bc68f5d6,rosebush.app,available,,,high,medium,8,,,,
-a7ed935b-eb0a-448b-a591-0e3ec6acb0ed,contracting.app,available,,,high,high,11,,,,
 d42fc68c-29d6-45ff-8d03-3b1d38d91f95,praising.app,available,10.98,22.98,high,low,8,namecheap,,,22/08/2026 20:53
 50a86fc5-9094-4892-b6b7-d1bd5ee6d68a,stripboard.app,available,,,high,high,10,,,,
 9aa28d7a-da9b-4b54-8045-942d6c72da0c,euphemism.app,available,,,high,high,9,,,,
@@ -857,6 +866,7 @@ b9a26eb0-96b1-4de7-a92f-41ddafc163de,unfamiliar.app,available,6.98,22.98,high,lo
 598636e2-552e-4c80-93e2-3b7ea3c719c6,departmental.app,available,10.99,16.99,high,low,12,namesilo,,,30/09/2026 14:39
 0f960d53-e5e4-4cfc-9011-f8a40482d98c,geniculation.app,available,,,medium,low,12,,,,
 b2264824-0a6e-417e-b061-3d1984462b5f,sparkly.app,resell,,,high,low,7,"Sav.com, LLC",09/08/2021 18:56,09/08/2027 18:56,26/09/2026 09:11
+b1d8484b-c95b-4b93-a0b1-4fc6b42d426a,matty.app,resell,,,high,low,5,,,,01/10/2026 23:18
 95b7888c-5145-4e05-92f3-47326fde04e6,midwinterly.app,available,,,medium,low,12,,,,
 9f899f1d-7c0c-4c42-9fa3-1e7fd07395fc,ignored.app,premium,57.82,57.82,high,low,7,namesilo,,,21/08/2026 18:34
 52a53abd-a620-49af-943d-023db66d3428,baptists.app,available,10.98,22.98,high,low,8,namecheap,,,22/09/2026 03:33
@@ -910,6 +920,7 @@ afd9bc33-d1e0-4943-aa12-237491e58446,rhinion.app,available,,,high,high,7,,,,
 d6e15cf2-0172-4747-844c-9523fa55e006,lions.app,premium,118.8,118.8,high,low,5,namesilo,,,
 2614a627-66da-4fdd-998d-50947ab63779,gowhole.app,available,,,high,high,7,,,,
 9a74aead-c4dc-47e5-8a94-ca25531818bb,sportingness.app,available,,,low,low,12,,,,
+ed1dd474-e5ba-41fd-a6e9-b2d780c5f260,defends.app,available,8.48,14.69,medium,low,7,spaceship,,,02/10/2026 02:36
 801b6f20-ad25-4e54-a0d4-1269d13a2dd5,anonymise.app,available,,,high,high,9,,,,
 60f810e2-df31-46f1-8cfd-eb9c022c82d2,molecular.app,premium,248.75,248.75,high,low,9,name.com,,,25/08/2026 03:53
 e58d6381-c564-4b59-bb93-8efee0040dec,okinawa.app,resell,,,high,low,7,,,,30/09/2026 10:39
@@ -937,6 +948,7 @@ b53b1f0a-ee5e-483b-a374-faa962257b34,russian.app,premium,518.7,518.7,high,low,7,
 328e64cb-f743-4fe1-aa34-9dd1eec73bc1,alisha.app,available,,,high,high,6,,,,
 1ba00393-105b-4646-8144-ecebbd0962f9,celt.app,resell,,,high,high,4,"GoDaddy.com, LLC",09/05/2018 23:07,09/05/2028 23:07,26/09/2026 04:49
 f4361a16-58ea-4d89-9d8d-739cc1a0e659,invariable.app,available,,,high,low,10,,,,
+c8e9629f-3cab-448b-871a-c453ab91af1e,bowels.app,available,10.99,16.99,high,low,6,namesilo,,,01/10/2026 18:47
 b4876a1c-d133-48e8-ba18-6dfa52666708,infrastructures.app,available,,,medium,low,15,,,,
 2a1f77af-b759-4191-99d3-dae0ae968324,mooney.app,resell,,,high,low,6,,,,28/09/2026 03:44
 d40e324d-f5c6-42fb-a3b2-8faeff52d5aa,lindsay.app,premium,99.2,118.8,high,low,7,unstoppable,,,29/09/2026 23:06
@@ -987,15 +999,3 @@ fe13a50a-1ac9-47a9-92ca-f726d30faaaf,rumspringa.app,available,,,high,high,10,,,,
 62f93ade-45ed-4de0-8e7e-dcf246f4ceb4,premedication.app,available,,,high,high,13,,,,
 c6c7fe5a-a211-42a1-84dd-ef53a946f7b8,twinberry.app,available,,,high,high,9,,,,
 507cabca-0450-4e32-b87c-301f44aef1db,erotism.app,available,10.99,16.99,medium,low,7,namesilo,,,18/09/2026 16:15
-b58a317c-94f9-45fc-a181-30062ac01397,monty.app,resell,,,medium,low,5,,,,28/09/2026 11:58
-25a68b5b-5be7-4236-b813-9062add694e0,constitutes.app,available,10.98,22.98,medium,low,11,namecheap,,,30/09/2026 00:12
-ee89e517-f0d4-4816-932b-e454d3c042bf,acinous.app,available,10.98,22.98,medium,low,7,namecheap,,,
-67d44d0f-b92b-4e0e-8488-406ec6621182,dryer.app,premium,102.67,102.67,high,low,5,spaceship,,,29/09/2026 18:42
-1f64aff6-5db8-4c8e-8faa-8406945c8ff4,avidness.app,available,10.99,16.99,high,low,8,namesilo,,,21/09/2026 09:29
-53fbd7a4-aca2-4467-92b4-1f5aa725bb3d,indefatigably.app,available,,,high,high,13,,,,
-5c7ae7b6-d26c-4bc3-960f-dd7c1b1b8018,navigational.app,available,,,high,high,12,,,,
-d2deded9-00a5-4bfd-96a1-6ff2a92fc3ef,ceremonial.app,available,10.99,16.99,high,low,10,namesilo,,,19/09/2026 15:03
-ec315446-d726-4560-b487-26e479dd2e13,creations.app,resell,,,high,low,9,Porkbun LLC,30/05/2022 23:36,30/05/2027 23:36,01/10/2026 00:49
-416d29f5-e740-4dbf-85a1-95f19ef075e2,vareniki.app,available,,,high,low,8,,,,
-afd48aae-39b3-49cb-8088-ac7652160c89,galeocerdo.app,available,,,high,high,10,,,,
-13fa2a3b-9dae-434c-973f-22e29d5ef16b,midapril.app,available,,,high,high,9,,,,
