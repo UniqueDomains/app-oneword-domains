@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .app one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 35,627 domains · **Median ask:** $53.27 · **High-demand under $2,500:** 211
 
-**.APP market:** 62,911 names available · Median registration $10.98 · Median renewal $15.96 · 105 sales in the last 12 months · Median sale $1,500 (USD sales, last 12 months)
+**.APP market:** 63,269 names available · Median registration $10.99 · Median renewal $15.96 · 105 sales in the last 12 months · Median sale $1,500 (USD sales, last 12 months)
 
 **Last updated:** 2026-10-04
 **Canonical page:** `https://unique.domains/tld/app`
@@ -66,26 +66,26 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| lxiv.app   | available | $10.98    | $22.98        | medium         | low    | 4      | namecheap                                                 |
+| lxiv.app   | available | $19.50    | $22.98        | medium         | low    | 4      | unstoppable                                               |
 | boxer.app  | resell    | $123.75   | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
 | pas.app    | premium   | $827.17   | $827.17       | high           | low    | 3      | spaceship                                                 |
 | ajuga.app  | available | $10.99    | $16.99        | high           | low    | 5      | namesilo                                                  |
 | ade.app    | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | came.app   | premium   | $254.72   | $254.72       | high           | low    | 4      | namesilo                                                  |
 | azoic.app  | available | $10.98    | $22.98        | medium         | low    | 5      | namecheap                                                 |
-| ahn.app    | resell    | —         | —             | medium         | low    | 3      | —                                                         |
+| aea.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
 | asian.app  | premium   | $413.17   | $413.17       | high           | low    | 5      | spaceship                                                 |
 | briny.app  | available | $10.98    | $22.98        | high           | low    | 5      | namecheap                                                 |
-| ats.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
+| ahn.app    | resell    | —         | —             | medium         | low    | 3      | —                                                         |
 | reich.app  | premium   | $50.92    | $50.92        | high           | low    | 5      | spaceship                                                 |
 | caddo.app  | available | $8.48     | $14.69        | high           | low    | 5      | spaceship                                                 |
-| crc.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
+| ats.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
 | urine.app  | premium   | $50.92    | $50.92        | high           | low    | 5      | spaceship                                                 |
 | debar.app  | available | $10.98    | $22.98        | medium         | low    | 5      | namecheap                                                 |
-| csi.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
+| crc.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
 | bremen.app | premium   | $258.70   | $258.70       | high           | low    | 6      | namecheap                                                 |
 | fagan.app  | available | $10.99    | $16.99        | high           | low    | 5      | namesilo                                                  |
-| elk.app    | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| csi.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
