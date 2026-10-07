@@ -1,10 +1,10 @@
-# Available .APP One-Word Domains (35,960)
+# Available .APP One-Word Domains (36,540)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C960%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C540%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,13 +12,13 @@
 Daily-updated public extract of available and resale .app one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **35,960 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **36,540 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 35,960 domains · **Median ask:** $52.00 · **High-demand under $2,500:** 198
+**Public extract:** 1,000 rows · **Live catalog:** 36,540 domains · **Median ask:** $49.75 · **High-demand under $2,500:** 230
 
-**.APP market:** 63,632 names available · Median registration $10.98 · Median renewal $15.96 · 105 sales in the last 12 months · Median sale $1,500 (USD sales, last 12 months)
+**.APP market:** 64,236 names available · Median registration $10.98 · Median renewal $15.96 · 105 sales in the last 12 months · Median sale $1,500 (USD sales, last 12 months)
 
-**Last updated:** 2026-10-06
+**Last updated:** 2026-10-07
 **Canonical page:** `https://unique.domains/tld/app`
 **Best for:** founders, investors, studios
 
@@ -66,19 +66,19 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| huac.app   | available | $19.50    | —             | medium         | low    | 4      | unstoppable                                               |
+| bogs.app   | available | $19.50    | —             | medium         | low    | 4      | unstoppable                                               |
 | boxer.app  | resell    | $123.75   | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
 | pas.app    | premium   | $827.17   | $827.17       | high           | low    | 3      | spaceship                                                 |
-| lxiv.app   | available | $19.50    | $22.98        | medium         | low    | 4      | unstoppable                                               |
+| huac.app   | available | $19.50    | —             | medium         | low    | 4      | unstoppable                                               |
 | ade.app    | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | came.app   | premium   | $254.72   | $254.72       | high           | low    | 4      | namesilo                                                  |
-| ulus.app   | available | $8.20     | $14.20        | high           | low    | 4      | cloudflare                                                |
+| lxiv.app   | available | $19.50    | $22.98        | medium         | low    | 4      | unstoppable                                               |
 | aea.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
 | asian.app  | premium   | $413.17   | $413.17       | high           | low    | 5      | spaceship                                                 |
-| ajuga.app  | available | $10.99    | $16.99        | high           | low    | 5      | namesilo                                                  |
+| ulus.app   | available | $8.20     | $14.20        | high           | low    | 4      | cloudflare                                                |
 | ahn.app    | resell    | —         | —             | medium         | low    | 3      | —                                                         |
 | reich.app  | premium   | $50.92    | $50.92        | high           | low    | 5      | spaceship                                                 |
-| azoic.app  | available | $10.98    | $22.98        | medium         | low    | 5      | namecheap                                                 |
+| ajuga.app  | available | $10.99    | $16.99        | high           | low    | 5      | namesilo                                                  |
 | ats.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
 | urine.app  | premium   | $50.92    | $50.92        | high           | low    | 5      | spaceship                                                 |
 | briny.app  | available | $10.98    | $22.98        | high           | low    | 5      | namecheap                                                 |
@@ -95,9 +95,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 35,960 live domains                                  |
+| 1,000-row public sample | 36,540 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 198 high-demand names under $2,500                   |
+| Basic exported fields   | 230 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -146,7 +146,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .APP One-Word Domains*. Version 2026-10-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .APP One-Word Domains*. Version 2026-10-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
