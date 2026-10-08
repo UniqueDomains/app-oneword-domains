@@ -4,8 +4,8 @@ title: "Available .APP One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-10-07"
-date-released: "2026-10-07"
+version: "2026-10-08"
+date-released: "2026-10-08"
 url: "https://unique.domains/tld/app"
 repository-code: "https://github.com/UniqueDomains/app-oneword-domains"
 license: "See LICENSE"
