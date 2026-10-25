@@ -1,10 +1,10 @@
-# Available .APP One-Word Domains (22,826)
+# Available .APP One-Word Domains (22,832)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C826%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C832%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,13 +12,13 @@
 Daily-updated public extract of available and resale .app one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,826 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,832 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,826 domains · **Median ask:** $60.61 · **High-demand under $2,500:** 17
+**Public extract:** 1,000 rows · **Live catalog:** 22,832 domains · **Median ask:** $60.22 · **High-demand under $2,500:** 49
 
-**.APP market:** 71,668 names available · Median registration $8.75 · Median renewal $15.96 · 95 sales in the last 12 months · Median sale $1,324 (USD sales, last 12 months)
+**.APP market:** 71,808 names available · Median registration $8.75 · Median renewal $15.96 · 95 sales in the last 12 months · Median sale $1,324 (USD sales, last 12 months)
 
-**Last updated:** 2026-10-24
+**Last updated:** 2026-10-25
 **Canonical page:** `https://unique.domains/tld/app`
 **Best for:** founders, investors, studios
 
@@ -64,28 +64,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| bogs.app   | available | $19.50    | —             | medium         | low    | 4      | unstoppable                                               |
-| boxer.app  | resell    | $123.75   | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
-| pas.app    | premium   | $827.17   | $827.17       | high           | low    | 3      | spaceship                                                 |
-| huac.app   | available | $19.50    | —             | high           | low    | 4      | unstoppable                                               |
-| ade.app    | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| came.app   | premium   | $254.72   | $254.72       | high           | low    | 4      | namesilo                                                  |
-| lxiv.app   | available | $19.50    | $22.98        | high           | low    | 4      | unstoppable                                               |
-| aea.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
-| lose.app   | premium   | $206.17   | $206.17       | high           | low    | 4      | spaceship                                                 |
-| pbuh.app   | available | $10.99    | $16.99        | high           | low    | 4      | namesilo                                                  |
-| agb.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
-| dryer.app  | premium   | $102.67   | $102.67       | high           | low    | 5      | spaceship                                                 |
-| vhdl.app   | available | $8.20     | $14.20        | high           | low    | 4      | cloudflare                                                |
-| ahn.app    | resell    | —         | —             | medium         | low    | 3      | —                                                         |
-| reich.app  | premium   | $50.92    | $50.92        | high           | low    | 5      | spaceship                                                 |
-| xuxo.app   | available | $19.50    | —             | high           | low    | 4      | unstoppable                                               |
-| ats.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
-| gauche.app | premium   | $50.92    | $50.92        | high           | low    | 6      | spaceship                                                 |
-| asoka.app  | available | $10.99    | $16.99        | high           | low    | 5      | namesilo                                                  |
-| azo.app    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| isometric.app    | resell    | —         | —             | high           | medium | 9      | Dynadot LLC.                                              |
+| embrace.app      | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| nibble.app       | resell    | —         | —             | high           | medium | 6      | Namecamp Limited                                          |
+| activation.app   | premium   | $254.72   | $254.72       | high           | medium | 10     | namesilo                                                  |
+| digitize.app     | resell    | —         | —             | high           | medium | 8      | Sav.com, LLC                                              |
+| hello.app        | resell    | —         | —             | high           | medium | 5      | Porkbun LLC                                               |
+| delivery.app     | resell    | —         | —             | high           | medium | 8      | Squarespace Domains II LLC.                               |
+| lovebird.app     | resell    | —         | —             | high           | medium | 8      | GoDaddy.com, LLC                                          |
+| swerve.app       | resell    | —         | —             | high           | low    | 6      | —                                                         |
+| academics.app    | resell    | —         | —             | high           | low    | 9      | Squarespace Domains II LLC.                               |
+| chore.app        | resell    | —         | —             | high           | low    | 5      | Namecamp Limited                                          |
+| navigational.app | available | $8.20     | $14.20        | high           | low    | 12     | cloudflare                                                |
+| nowadays.app     | resell    | —         | —             | high           | low    | 8      | Sav.com, LLC                                              |
+| innovatory.app   | available | $8.75     | $14.93        | high           | low    | 10     | porkbun                                                   |
+| expose.app       | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.                                           |
+| whiskey.app      | premium   | $2,078.70 | $2,078.70     | high           | low    | 7      | namecheap                                                 |
+| don.app          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
+| troll.app        | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| privatize.app    | resell    | —         | —             | high           | medium | 9      | Spaceship, Inc.                                           |
+| dea.app          | resell    | —         | —             | high           | low    | 3      | West263 International Limited                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,9 +95,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 22,826 live domains                                  |
+| 1,000-row public sample | 22,832 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 17 high-demand names under $2,500                    |
+| Basic exported fields   | 49 high-demand names under $2,500                    |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -146,7 +146,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .APP One-Word Domains*. Version 2026-10-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .APP One-Word Domains*. Version 2026-10-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
