@@ -1,10 +1,10 @@
-# Available .APP One-Word Domains (23,084)
+# Available .APP One-Word Domains (23,115)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C084%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C115%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,13 +12,13 @@
 Daily-updated public extract of available and resale .app one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,084 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,115 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,084 domains · **Median ask:** $55.00 · **High-demand under $2,500:** 291
+**Public extract:** 1,000 rows · **Live catalog:** 23,115 domains · **Median ask:** $51.94 · **High-demand under $2,500:** 366
 
-**.APP market:** 72,041 names available · Median registration $8.75 · Median renewal $15.96 · 94 sales in the last 12 months · Median sale $1,267 (USD sales, last 12 months)
+**.APP market:** 72,081 names available · Median registration $8.75 · Median renewal $15.96 · 94 sales in the last 12 months · Median sale $1,267 (USD sales, last 12 months)
 
-**Last updated:** 2026-10-28
+**Last updated:** 2026-10-29
 **Canonical page:** `https://unique.domains/tld/app`
 **Best for:** founders, investors, studios
 
@@ -85,7 +85,7 @@ print(df.head())
 | ats.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
 | gauche.app | premium   | $50.92    | $50.92        | high           | low    | 6      | spaceship                                                 |
 | vhdl.app   | available | $8.20     | $14.20        | high           | low    | 4      | cloudflare                                                |
-| azo.app    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
+| bed.app    | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,9 +95,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 23,084 live domains                                  |
+| 1,000-row public sample | 23,115 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 291 high-demand names under $2,500                   |
+| Basic exported fields   | 366 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -146,7 +146,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .APP One-Word Domains*. Version 2026-10-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .APP One-Word Domains*. Version 2026-10-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
