@@ -1,10 +1,10 @@
-# Available .APP One-Word Domains (23,163)
+# Available .APP One-Word Domains (23,194)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C163%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C194%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,13 +12,13 @@
 Daily-updated public extract of available and resale .app one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,163 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,194 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,163 domains · **Median ask:** $51.20 · **High-demand under $2,500:** 414
+**Public extract:** 1,000 rows · **Live catalog:** 23,194 domains · **Median ask:** $50.82 · **High-demand under $2,500:** 434
 
-**.APP market:** 72,145 names available · Median registration $8.75 · Median renewal $15.96 · 94 sales in the last 12 months · Median sale $1,267 (USD sales, last 12 months)
+**.APP market:** 72,191 names available · Median registration $8.75 · Median renewal $15.96 · 93 sales in the last 12 months · Median sale $1,324 (USD sales, last 12 months)
 
-**Last updated:** 2026-10-30
+**Last updated:** 2026-10-31
 **Canonical page:** `https://unique.domains/tld/app`
 **Best for:** founders, investors, studios
 
@@ -67,25 +67,25 @@ print(df.head())
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | bogs.app   | available | $19.50    | —             | medium         | low    | 4      | unstoppable                                               |
-| boxer.app  | resell    | $123.75   | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
+| ade.app    | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | pas.app    | premium   | $827.17   | $827.17       | high           | low    | 3      | spaceship                                                 |
 | huac.app   | available | $19.50    | —             | high           | low    | 4      | unstoppable                                               |
-| ade.app    | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| aea.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
 | came.app   | premium   | $254.72   | $254.72       | high           | low    | 4      | namesilo                                                  |
 | iiit.app   | available | $8.48     | $14.69        | high           | low    | 4      | spaceship                                                 |
-| aea.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
+| agb.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
 | lose.app   | premium   | $206.17   | $206.17       | high           | low    | 4      | spaceship                                                 |
 | lcoe.app   | available | $19.50    | —             | high           | low    | 4      | unstoppable                                               |
-| agb.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
+| ahn.app    | resell    | —         | —             | medium         | low    | 3      | —                                                         |
 | dryer.app  | premium   | $102.67   | $102.67       | high           | low    | 5      | spaceship                                                 |
 | lxiv.app   | available | $19.50    | $22.98        | high           | low    | 4      | unstoppable                                               |
-| ahn.app    | resell    | —         | —             | medium         | low    | 3      | —                                                         |
+| ats.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
 | reich.app  | premium   | $50.92    | $50.92        | high           | low    | 5      | spaceship                                                 |
 | pbuh.app   | available | $10.99    | $16.99        | high           | low    | 4      | namesilo                                                  |
-| ats.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
+| bed.app    | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | gauche.app | premium   | $50.92    | $50.92        | high           | low    | 6      | spaceship                                                 |
 | vhdl.app   | available | $8.20     | $14.20        | high           | low    | 4      | cloudflare                                                |
-| bed.app    | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| ccg.app    | resell    | —         | —             | high           | low    | 3      | —                                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,9 +95,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 23,163 live domains                                  |
+| 1,000-row public sample | 23,194 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 414 high-demand names under $2,500                   |
+| Basic exported fields   | 434 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -146,7 +146,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .APP One-Word Domains*. Version 2026-10-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .APP One-Word Domains*. Version 2026-10-31. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
