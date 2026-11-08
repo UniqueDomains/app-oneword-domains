@@ -25,6 +25,7 @@ The first 20 rows of the file, in the file's order.
 | domain            | status    | purchase_price | renewal_price | attractiveness | demand | length |
 | ----------------- | --------- | -------------- | ------------- | -------------- | ------ | ------ |
 | chear.app         | available | $10.98         | $22.98        | high           | low    | 5      |
+| trisyllabic.app   | available | $10.99         | $16.99        | high           | low    | 11     |
 | plodded.app       | available | —              | —             | high           | high   | 7      |
 | grampa.app        | available | $10.98         | $22.98        | high           | low    | 6      |
 | undermine.app     | available | $10.99         | $16.99        | high           | low    | 9      |
@@ -43,7 +44,6 @@ The first 20 rows of the file, in the file's order.
 | kimonolike.app    | available | —              | —             | high           | high   | 10     |
 | antiparticle.app  | available | $10.99         | $16.99        | high           | low    | 12     |
 | centroids.app     | available | —              | —             | medium         | low    | 9      |
-| groundsheets.app  | available | —              | —             | medium         | low    | 12     |
 
 ## What is in the data
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 23,193 names in the live list today.
+- The files hold 1,000 rows of the 23,208 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 

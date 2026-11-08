@@ -1,5 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 7c6eeb42-7f07-4937-af9a-f0abcbb814ec,chear.app,available,10.98,22.98,high,low,5,namecheap,,
+29e7a803-3e5d-47ec-8bd4-74ed810e6394,trisyllabic.app,available,10.99,16.99,high,low,11,namesilo,,
 1bb63c0b-7f17-40f3-8970-f2d0783029f7,plodded.app,available,,,high,high,7,,,
 ce3ac3fe-ef94-4f07-89f3-de8df5dd68bb,grampa.app,available,10.98,22.98,high,low,6,namecheap,,
 03535abe-38e8-438e-8883-de9976605118,undermine.app,available,10.99,16.99,high,low,9,namesilo,,
@@ -266,7 +267,7 @@ e84ad1a2-db46-4218-ba9d-d3aaa0b57b9d,fatal.app,resell,,,high,low,5,"Sav.com, LLC
 2d275bee-6c7f-4689-828e-1cfc3cd74c0e,egghead.app,resell,,,high,low,7,,,
 8e30502d-ed47-4ae1-b9af-d36bc88f91ae,vaccinated.app,available,19.5,22.98,high,low,10,unstoppable,,
 47145de8-895e-4e73-91d2-d86f9eba4ff1,toeprints.app,available,,,medium,low,9,,,
-39ff1e0b-de97-43ad-9d92-ab552b39bdc6,refracting.app,available,,,high,high,10,,,
+39ff1e0b-de97-43ad-9d92-ab552b39bdc6,refracting.app,available,19.5,,high,low,10,unstoppable,,
 ace5b532-8ab0-4dcd-90ce-27e71b940e4f,legato.app,resell,,,high,low,6,Namecamp Limited,27/07/2019 06:23,27/07/2027 06:23
 32a59f0a-83df-4fd8-ad12-b9d9e9ca7765,uniski.app,available,19.5,,high,low,6,unstoppable,,
 9cdd0ce5-1bb9-4346-aa3d-f678c5a1d89a,internationalisation.app,available,10.99,16.99,high,high,20,namesilo,,
@@ -305,7 +306,6 @@ c1ca244c-c3df-4bfb-9b4c-824fc219bfce,smokable.app,available,,,high,high,8,,,
 5e8418c4-9aec-4560-9fa0-5cbd756e580f,lawsuitable.app,available,,,high,high,11,,,
 4812ea31-6bdd-4d05-9194-c2bce6893287,glockenspiel.app,available,10.99,16.99,high,low,12,namesilo,,
 066d0c16-d84f-4d54-b0bc-d28979909c84,briefest.app,available,,,medium,low,8,,,
-c5986593-566f-4869-873c-5bfb1c9f43dc,payor.app,resell,,,high,low,5,,,
 503bb629-ffd8-43bd-8a8f-f068b272a03b,counterattitudinal.app,available,,,medium,low,18,,,
 2aac5e83-843d-4192-aa61-be93ddcc68e7,tabloids.app,available,8.2,14.2,medium,low,8,cloudflare,,
 11aef342-cd77-4344-9716-98b6bfb5f17d,groundwave.app,available,,,high,high,11,,,
@@ -420,7 +420,7 @@ afd2fa3f-2f90-48bc-9c95-d37b841b9916,bogs.app,available,19.5,,medium,low,4,unsto
 dbfa20ba-9ac8-4b4e-b7ca-f4344553f623,selfcritical.app,available,,,high,high,13,,,
 38f5e54f-3865-404d-85ca-9caf8c12ff80,wharfs.app,available,,,medium,low,6,,,
 004179a5-e926-4d9d-8fe5-2be2b9088d20,audience.app,resell,,,high,low,8,Squarespace Domains II LLC.,08/05/2018 16:02,08/05/2027 16:02
-a4084e46-e955-44db-ae10-2ec34a204584,handseling.app,available,,,medium,low,10,,,
+a4084e46-e955-44db-ae10-2ec34a204584,handseling.app,available,10.99,16.99,medium,low,10,namesilo,,
 9376ea86-4d63-4450-b3a3-57301b2d895b,adjust.app,resell,,,high,low,6,,,
 6e7b4b69-f6af-4169-9444-4a47373d9604,propagating.app,available,10.99,16.99,medium,low,11,namesilo,,
 77f0729e-4ce8-404a-92d1-bba9606f81d7,container.app,premium,,,high,high,9,Squarespace Domains II LLC.,18/03/2023 04:07,18/03/2027 04:07
