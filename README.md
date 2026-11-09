@@ -1,6 +1,6 @@
 # Available .APP One-Word Domains
 
-42,767 one-word .app names are free to register today, from $7.99 the first year at GoDaddy. Renewal there $19.99, three times the first year. 92 .app sales in the last 12 months, median $1,267.
+42,846 one-word .app names are free to register today, from $7.99 the first year at GoDaddy. Renewal there $19.99, three times the first year. 92 .app sales in the last 12 months, median $1,267.
 
 Live page: [unique.domains/tld/app](https://unique.domains/tld/app?utm_source=github&utm_medium=referral&utm_campaign=repo_app_oneword_domains&utm_content=top_tld_page)
 
@@ -22,28 +22,28 @@ print(df.head())
 
 The first 20 rows of the file, in the file's order.
 
-| domain            | status    | purchase_price | renewal_price | attractiveness | demand | length |
-| ----------------- | --------- | -------------- | ------------- | -------------- | ------ | ------ |
-| chear.app         | available | $10.98         | $22.98        | high           | low    | 5      |
-| trisyllabic.app   | available | $10.99         | $16.99        | high           | low    | 11     |
-| plodded.app       | available | —              | —             | high           | high   | 7      |
-| grampa.app        | available | $10.98         | $22.98        | high           | low    | 6      |
-| undermine.app     | available | $10.99         | $16.99        | high           | low    | 9      |
-| symbolise.app     | available | $7.99          | $19.99        | high           | low    | 9      |
-| agnomen.app       | available | $10.99         | $16.99        | high           | low    | 7      |
-| trumpeting.app    | available | $8.48          | $14.69        | high           | low    | 10     |
-| rhomboid.app      | available | $6.98          | $22.98        | high           | low    | 8      |
-| disembark.app     | available | $8.20          | $14.20        | high           | low    | 9      |
-| egregious.app     | available | $8.48          | $14.69        | high           | low    | 9      |
-| briny.app         | available | $8.48          | $14.69        | high           | low    | 5      |
-| vhdl.app          | available | $8.20          | $14.20        | high           | low    | 4      |
-| multinational.app | available | $8.75          | $14.93        | high           | low    | 13     |
-| drinamyl.app      | available | —              | —             | high           | low    | 8      |
-| rosebudding.app   | available | —              | —             | high           | low    | 11     |
-| dualski.app       | available | $19.50         | —             | high           | low    | 7      |
-| kimonolike.app    | available | —              | —             | high           | high   | 10     |
-| antiparticle.app  | available | $10.99         | $16.99        | high           | low    | 12     |
-| centroids.app     | available | —              | —             | medium         | low    | 9      |
+| domain           | status    | purchase_price | renewal_price | attractiveness | demand | length |
+| ---------------- | --------- | -------------- | ------------- | -------------- | ------ | ------ |
+| chear.app        | available | $10.98         | $22.98        | high           | low    | 5      |
+| trisyllabic.app  | available | $10.99         | $16.99        | high           | low    | 11     |
+| plodded.app      | available | —              | —             | high           | high   | 7      |
+| grampa.app       | available | $10.98         | $22.98        | high           | low    | 6      |
+| undermine.app    | available | $10.99         | $16.99        | high           | low    | 9      |
+| symbolise.app    | available | $7.99          | $19.99        | high           | low    | 9      |
+| agnomen.app      | available | $10.99         | $16.99        | high           | low    | 7      |
+| trumpeting.app   | available | $8.48          | $14.69        | high           | low    | 10     |
+| rhomboid.app     | available | $6.98          | $22.98        | high           | low    | 8      |
+| disembark.app    | available | $8.20          | $14.20        | high           | low    | 9      |
+| egregious.app    | available | $8.48          | $14.69        | high           | low    | 9      |
+| briny.app        | available | $8.48          | $14.69        | high           | low    | 5      |
+| vhdl.app         | available | $8.20          | $14.20        | high           | low    | 4      |
+| drinamyl.app     | available | —              | —             | high           | low    | 8      |
+| rosebudding.app  | available | —              | —             | high           | low    | 11     |
+| dualski.app      | available | $19.50         | —             | high           | low    | 7      |
+| kimonolike.app   | available | —              | —             | high           | high   | 10     |
+| antiparticle.app | available | $10.99         | $16.99        | high           | low    | 12     |
+| centroids.app    | available | —              | —             | medium         | low    | 9      |
+| groundsheets.app | available | —              | —             | medium         | low    | 12     |
 
 ## What is in the data
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 23,255 names in the live list today.
+- The files hold 1,000 rows of the 23,325 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
