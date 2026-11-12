@@ -1,6 +1,6 @@
 # Available .APP One-Word Domains
 
-42,975 one-word .app names are free to register today, from $7.99 the first year at GoDaddy. Renewal there $19.99, three times the first year. 92 .app sales in the last 12 months, median $1,267.
+42,963 one-word .app names are free to register today, from $7.99 the first year at GoDaddy. Renewal there $19.99, three times the first year. 92 .app sales in the last 12 months, median $1,267.
 
 Live page: [unique.domains/tld/app](https://unique.domains/tld/app?utm_source=github&utm_medium=referral&utm_campaign=repo_app_oneword_domains&utm_content=top_tld_page)
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 22,851 names in the live list today.
+- The files hold 1,000 rows of the 22,834 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
