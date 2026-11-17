@@ -196,6 +196,7 @@ ac39436f-edad-487d-bfd8-0c3936ca0ebe,footage.app,resell,,,high,low,7,,,
 1ccd4001-ae09-4232-a9e8-28e09d0b15f7,furnishing.app,available,8.2,14.2,high,low,10,cloudflare,,
 4efa1574-903d-4afe-8139-a84b95472ff6,encouragements.app,available,,,high,low,14,,,
 8520fee4-b0af-463a-bce3-55b9374ddad6,businesswide.app,available,19.5,,high,high,12,unstoppable,,
+b73b7523-ec36-403c-8c78-b2dfcc9a925f,yogurt.app,premium,,,high,medium,6,united-domains AG,05/05/2018 16:00,05/05/2027 16:00
 70b74a01-5301-4403-935f-8401b8dbcea0,trawled.app,available,,,high,low,7,,,
 a4fc7e66-37fa-4fa3-8316-b7dc78606807,weedwhacker.app,available,,,high,high,11,,,
 e74109dc-e31d-4e33-95a1-cb4167643d2b,concision.app,available,8.75,14.93,high,low,9,porkbun,,
@@ -368,7 +369,7 @@ be64ee1a-02a9-4514-aa51-e05ad7fb437b,condiments.app,available,10.99,16.99,high,l
 29348e39-0f8d-4378-99ed-7754e18d1c5a,kilogram.app,resell,,,high,low,8,"GoDaddy.com, LLC",08/05/2018 17:05,08/05/2027 17:05
 4fea28a3-6cac-4132-9ee7-337e13aaff32,clairvoyancy.app,available,7.99,19.99,high,high,12,godaddy,,
 2a5c76f6-04d2-4799-91a5-35d96ac770b7,warning.app,premium,254.72,254.72,high,medium,7,namesilo,,
-ec1b0247-b3d0-4f93-9ec4-f530c8d7cd74,taleteller.app,available,19.5,16.99,high,low,10,unstoppable,,
+ec1b0247-b3d0-4f93-9ec4-f530c8d7cd74,taleteller.app,available,10.99,16.99,high,low,10,namesilo,,
 9f88c184-7bfe-4750-9ee6-a22afdea5c30,chimeral.app,available,8.48,14.69,medium,low,8,spaceship,,
 7e7f2f01-1b50-45cd-8fa3-f1172a7bd07b,sixpences.app,available,,,medium,low,9,,,
 ea49b49d-f278-4372-a6bc-d44c7abf7770,decisively.app,available,,,high,low,10,,,
@@ -430,7 +431,7 @@ d420801a-ccfb-49e8-b530-f9e6e8a326d3,sass.app,resell,,,high,low,4,"Global Domain
 f1777fb4-440e-40c6-a721-58d051671e0c,hydrolyze.app,available,10.98,22.98,high,low,9,namecheap,,
 0d957505-f2fd-4b55-ad23-60eaf8909f95,communicativeness.app,available,,,high,low,17,,,
 4c6acf66-473d-460a-9d61-11cb52d9b223,tunings.app,available,10.99,16.99,high,low,7,namesilo,,
-d244242f-19fa-4286-9181-6e7551707ef9,dryers.app,available,10.99,16.99,high,low,6,namesilo,,
+d244242f-19fa-4286-9181-6e7551707ef9,dryers.app,available,8.48,14.69,high,low,6,spaceship,,
 4382793f-c8a0-4ac6-979c-1eff76543a60,wikiholic.app,available,10.99,16.99,high,high,9,namesilo,,
 2dd736fa-9803-40be-81ff-0d7815a7f4cb,tooth.app,resell,,,high,low,5,West263 International Limited,11/04/2020 10:45,11/04/2027 10:45
 aaad10ff-ee8f-4d50-8dc0-e80ff44d74cd,ultraloyal.app,available,10.98,22.98,high,low,10,namecheap,,
@@ -634,7 +635,6 @@ d63dce52-6b05-4ab9-a912-8602cd37f870,academics.app,resell,,,high,low,9,Squarespa
 780107d2-30ab-433f-82e7-8aee1a44f739,crystallochemistry.app,available,,,high,high,18,,,
 92abccc9-2389-4b5c-85f9-0999d5306912,wifey.app,resell,,,high,low,5,"Sav.com, LLC",26/01/2025 00:29,26/01/2027 00:29
 6fe1aa41-4f94-4d2f-a406-6a47eff6fb0b,insects.app,resell,,,high,low,7,Porkbun LLC,04/05/2018 16:00,04/05/2027 16:00
-5ce457c1-fb5b-4258-a2c1-863c7cac0815,pizzas.app,resell,,,high,low,6,Porkbun LLC,28/12/2025 08:28,28/12/2026 08:28
 edec841a-d20b-4fd4-a631-76b43b45d56e,spectacled.app,available,8.2,14.2,high,low,10,cloudflare,,
 d1fc5058-08fd-466f-92be-9788bd6a3e45,pivoting.app,resell,,,high,low,8,,,
 eaab9cc3-589f-4153-9168-524a475e421c,siring.app,available,,,high,high,6,,,
@@ -747,7 +747,7 @@ ad9d8cbe-5e71-40b2-94c1-01adc61f6f30,our.app,resell,,,high,low,3,"Global Domains
 8c54fa26-8427-4da4-a8dc-186778026b6e,siliconlike.app,available,,,high,high,11,,,
 361b0148-7d8a-468e-a53a-5dccf9ea4737,centrolateral.app,available,,,medium,low,13,,,
 e1e181f3-21fa-4858-a59b-953745a1c805,opposed.app,premium,57.82,57.82,high,low,7,namesilo,,
-fe2cb0e1-005d-47e4-9862-d7bf65f2458a,commonwealthsman.app,available,,,high,high,16,,,
+fe2cb0e1-005d-47e4-9862-d7bf65f2458a,commonwealthsman.app,available,10.99,16.99,high,low,16,namesilo,,
 143a494f-c5f7-43af-8bb3-184940c34e82,innovatory.app,available,8.75,14.93,high,low,10,porkbun,,
 8989bb00-9557-499e-82ca-82be2b778f5f,unknowable.app,available,19.5,22.98,high,low,10,unstoppable,,
 36b7cefc-2607-4a91-be5a-82e71781f50e,showers.app,premium,,,high,low,7,,,
