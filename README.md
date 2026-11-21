@@ -1,10 +1,12 @@
 # Available .APP One-Word Domains
 
-1,000 real .app one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
+**Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_app_oneword_domains&utm_content=top_home).
 
-Each word exists once on each ending. Unique.domains tracks [91,459 names on .app](https://unique.domains/tld/app); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+1,000 real .app one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-43,036 one-word .app names are free to register today, from $7.48 the first year at Namecheap. Renewal there $22.98, three times the first year. 92 .app sales in the last 12 months, median $1,267.
+Each word exists once on each ending. Unique.domains tracks [91,559 names on .app](https://unique.domains/tld/app); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+
+43,142 one-word .app names are free to register today, from $7.48 the first year at Namecheap. Renewal there $22.98, three times the first year. 93 .app sales in the last 12 months, median $1,324.
 
 Live page: [unique.domains/tld/app](https://unique.domains/tld/app?utm_source=github&utm_medium=referral&utm_campaign=repo_app_oneword_domains&utm_content=top_tld_page)
 
@@ -66,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 22,939 names in the live list today.
+- The files hold 1,000 rows of the 23,026 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
