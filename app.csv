@@ -96,7 +96,6 @@ dbaa50a3-00fb-4901-8e0c-e3c17e945cc9,unbarbered.app,available,,,high,high,10,,,
 02efb39f-b24a-4124-8b94-716496795a2b,rdc.app,resell,,,high,low,3,,,
 9f671b90-1e2a-45e9-bba1-cf9b2373b0b0,ahn.app,resell,,,high,low,3,,,
 9b827b94-7247-49e9-8a54-bef6103239ab,humplike.app,available,8.2,14.2,high,high,8,cloudflare,,
-ca129b89-a00e-44de-a50f-8781c3742a19,poncho.app,resell,,,high,low,6,"Global Domains International, Inc. DBA DomainCostClub.com",05/01/2021 11:32,05/01/2027 11:32
 51d64af6-5ab3-4d14-baa8-ffe65d399ff7,cryofracture.app,available,8.2,14.2,high,low,12,cloudflare,,
 5a7c317a-5a92-44e9-a2e2-3728b794a80d,triumvirate.app,available,8.48,14.69,high,low,11,spaceship,,
 e0864c79-f9be-424e-8629-9a6eb3e34aba,boldface.app,available,10.98,22.98,high,low,8,namecheap,,
@@ -203,6 +202,7 @@ ac39436f-edad-487d-bfd8-0c3936ca0ebe,footage.app,resell,,,high,low,7,,,
 70b74a01-5301-4403-935f-8401b8dbcea0,trawled.app,available,,,high,low,7,,,
 a4fc7e66-37fa-4fa3-8316-b7dc78606807,weedwhacker.app,available,,,high,high,11,,,
 e74109dc-e31d-4e33-95a1-cb4167643d2b,concision.app,available,8.75,14.93,high,low,9,porkbun,,
+6f949baf-7491-46ae-8270-02a06c594d3e,zigzagged.app,available,8.48,14.69,high,low,9,spaceship,,
 352b7c4d-ddff-474b-9f1b-183676c86d8b,sambuca.app,resell,,,high,low,7,Dynadot LLC.,30/09/2022 09:59,30/09/2027 09:59
 f980186f-5c32-4605-ac5b-1f7c3de4b9c2,malley.app,available,10.99,16.99,high,low,6,namesilo,,
 a0830fde-d180-46fd-894c-dc8d8d3ff784,toucan.app,resell,,,high,low,6,,,
@@ -376,7 +376,7 @@ be64ee1a-02a9-4514-aa51-e05ad7fb437b,condiments.app,available,10.99,16.99,high,l
 29348e39-0f8d-4378-99ed-7754e18d1c5a,kilogram.app,resell,,,high,low,8,"GoDaddy.com, LLC",08/05/2018 17:05,08/05/2027 17:05
 4fea28a3-6cac-4132-9ee7-337e13aaff32,clairvoyancy.app,available,7.99,19.99,high,high,12,godaddy,,
 2a5c76f6-04d2-4799-91a5-35d96ac770b7,warning.app,premium,254.72,254.72,high,medium,7,namesilo,,
-ec1b0247-b3d0-4f93-9ec4-f530c8d7cd74,taleteller.app,available,8.48,14.69,high,low,10,spaceship,,
+ec1b0247-b3d0-4f93-9ec4-f530c8d7cd74,taleteller.app,available,10.99,16.99,high,low,10,namesilo,,
 9f88c184-7bfe-4750-9ee6-a22afdea5c30,chimeral.app,available,8.48,14.69,medium,low,8,spaceship,,
 7e7f2f01-1b50-45cd-8fa3-f1172a7bd07b,sixpences.app,available,,,medium,low,9,,,
 ea49b49d-f278-4372-a6bc-d44c7abf7770,decisively.app,available,,,high,low,10,,,
@@ -391,7 +391,6 @@ f980fbf2-602f-4273-881c-7f46e1bf0903,vegetarianism.app,available,8.2,14.2,high,l
 4f245159-afd8-4a7c-a8d3-e17a7dd0e51b,elk.app,resell,,,high,low,3,"Global Domains International, Inc. DBA DomainCostClub.com",23/07/2019 08:52,23/07/2027 08:52
 16509f11-db01-40e8-9423-c53315b084e8,dichotomic.app,available,,,high,high,10,,,
 feb6a27d-12e4-4a5e-aeba-38d127ac7376,enforce.app,resell,,,high,low,7,,,
-e0a30c3b-ca73-466f-beb7-8e66614dc526,clue.app,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",21/07/2022 19:18,21/07/2027 19:18
 8f76db71-7190-44be-88d6-4f792a212925,incapacity.app,available,10.99,16.99,high,low,10,namesilo,,
 5d3c3a6a-0e89-4a0c-9cd2-a5ba40466b47,interlocutors.app,available,8.2,14.2,medium,low,13,cloudflare,,
 b0710546-000d-4093-944f-5f3232d1c086,woodcarving.app,available,8.75,14.93,high,low,12,porkbun,,
@@ -437,6 +436,7 @@ d420801a-ccfb-49e8-b530-f9e6e8a326d3,sass.app,resell,,,high,low,4,"Global Domain
 f1777fb4-440e-40c6-a721-58d051671e0c,hydrolyze.app,available,10.98,22.98,high,low,9,namecheap,,
 0d957505-f2fd-4b55-ad23-60eaf8909f95,communicativeness.app,available,,,high,low,17,,,
 4c6acf66-473d-460a-9d61-11cb52d9b223,tunings.app,available,10.99,16.99,high,low,7,namesilo,,
+2fd9ff91-aba2-4904-add3-261dde7127d9,mantapa.app,available,19.5,,high,low,7,unstoppable,,
 d244242f-19fa-4286-9181-6e7551707ef9,dryers.app,available,8.48,14.69,high,low,6,spaceship,,
 4382793f-c8a0-4ac6-979c-1eff76543a60,wikiholic.app,available,10.99,16.99,high,high,9,namesilo,,
 2dd736fa-9803-40be-81ff-0d7815a7f4cb,tooth.app,resell,,,high,low,5,West263 International Limited,11/04/2020 10:45,11/04/2027 10:45
@@ -547,7 +547,7 @@ b8f89ca7-4dc2-48b8-8385-1f604a99f5b1,bridegroom.app,available,8.75,14.93,high,lo
 05b88bba-2a06-446b-9e50-8ac648640b0b,drinketh.app,available,,,high,high,8,,,
 94932216-8fce-430f-bae0-a186c47b446d,abounded.app,available,,,medium,low,8,,,
 6476c492-1832-46ba-8dda-7ec3c370d717,wreaths.app,available,19.5,,high,low,7,unstoppable,,
-ec57065d-d130-4601-b248-32ca0b827ade,dealing.app,premium,99.2,118.8,high,low,7,unstoppable,,
+ec57065d-d130-4601-b248-32ca0b827ade,dealing.app,premium,118.8,118.8,high,low,7,namesilo,,
 97f367c9-4cc0-4e49-a114-49e83a839ee6,samvat.app,available,10.99,16.99,high,low,6,namesilo,,
 5ff4a87b-bcd3-4f42-a530-762076b8c8ed,utp.app,resell,,,high,low,3,,,
 0e5da7b7-1e13-4c85-b1f4-d2b935858220,iod.app,resell,,,high,low,3,,,
